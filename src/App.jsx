@@ -5,21 +5,27 @@ import Root from './pages/Root';
 import NotFound from './pages/NotFound';
 import VideoDetail from './pages/VideoDetail';
 import Short from './pages/Short';
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 
 const router = createBrowserRouter([
-    {
-        path: '/',
-        element: <Root />,
-        errorElement: <NotFound />,
-        children: [
-            { index: true, element: <Home /> },
-            { path: 'short', element: <Short /> },
-            { path: 'videos', element: <Videos /> },
-            { path: 'videos/:videoId', element: <VideoDetail /> },
-        ],
-    },
+  {
+    path: '/',
+    element: <Root />,
+    errorElement: <NotFound />,
+    children: [
+      { index: true, element: <Home /> },
+      { path: 'short', element: <Short /> },
+      { path: 'videos', element: <Videos /> },
+      { path: 'videos/:videoId', element: <VideoDetail /> },
+    ],
+  },
 ]);
 
+const queryClient = new QueryClient();
 export default function App() {
-    return <RouterProvider router={router} />;
+  return (
+    <QueryClientProvider client={queryClient}>
+      <RouterProvider router={router} />
+    </QueryClientProvider>
+  );
 }
