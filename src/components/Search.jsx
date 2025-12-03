@@ -7,7 +7,6 @@ export default function Search() {
     const navigate = useNavigate();
     const handleChange = (e) => {
         setText(e.target.value);
-        console.log(text);
     };
     const handleSubmit = (e) => {
         e.preventDefault();

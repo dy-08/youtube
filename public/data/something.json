@@ -1,0 +1,844 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "F91ko3WgDQ-Jk8LiD05V9DVQNFs",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v1PIrSqBVyt1rHRODubbP3KI4E0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-e8ePJvJeNI"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-01T09:00:00Z",
+        "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+        "title": "[vlog]혼자 이천 여행(?)🤗(혼밥도 잘해요/닭발떡볶이+치킨/그릇 추천 언박싱🥣/치킨 중독ㅠ💗/김치볶음밥/무생채비빔밥/분당 맛집🤤/김치만두/페리카나 간장치킨/시바견 택이)",
+        "description": "여러분 안녕하세요! 평소보다 조금 이른시간에 인사드립니다  12월의 첫 브이로그… 시작이 조아…   오늘은 이천에 놀러가서 혼자 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-e8ePJvJeNI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-e8ePJvJeNI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-e8ePJvJeNI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "김가을",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-01T09:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vgqDfapXmyb3pxcbwkuwupSV5tk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UiYUVhsBraM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-02T15:21:24Z",
+        "channelId": "UCijMFPOf39WzABuHBsQHh3A",
+        "title": "251031 아이브 콘서트 SHOW WHAT I AM 가을 솔로곡 &#39;Odd&#39; 오드 직캠 ive gaeul solo odd 4k fancam",
+        "description": "twitter @sunset_ge #아이브 #가을 #ive #gaeul.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UiYUVhsBraM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UiYUVhsBraM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UiYUVhsBraM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sunset",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-02T15:21:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MNqYt8uVf3VqD7trT5S9fufYh1c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6sOVNYrZ5zk"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-29T21:00:05Z",
+        "channelId": "UCntTR2quxT28QtZAQeO1hBQ",
+        "title": "발라드 명곡 모음  ᴘʟᴀʏʟɪsᴛ 가을에 듣기좋은 발라드 모음  김필 다시 사랑한다면   폴킴   모든 날, 모든 순간   너무 아픈 사랑은 사랑이 아니었음을 박새별",
+        "description": "가슴 아픈 발라드 10곡,첫소절만 들어도 눈물샘 폭발하는 슬픈 노래모음,들으면 눈물나는 발라드 명곡추천,이승기,왁스,김범수,소울 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6sOVNYrZ5zk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6sOVNYrZ5zk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6sOVNYrZ5zk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sad KPOP Playlist",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-29T21:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6YYTjoLBC2DC7sKvuEb6lCM4aqQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k86b7E8ZVZ0"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-04T02:49:13Z",
+        "channelId": "UCWjrlrL7_e9QbZ2pMXKsMwA",
+        "title": "가을이 오면",
+        "description": "Provided to YouTube by Mound Media Inc. 가을이 오면 · 이문세 이문세 4집 ℗ 예전미디어, under license to VOSTOK Released on: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k86b7E8ZVZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k86b7E8ZVZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k86b7E8ZVZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lee Moon Sae - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-04T02:49:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lfe_9lbsRMNXkGVvedymLnarPwk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4FvqdZtH4xo"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-06T09:17:24Z",
+        "channelId": "UC8-EI2rTBYgkZl5kB_b-2Pw",
+        "title": "A thought on an autumn night (가을밤에 든 생각)",
+        "description": "Provided to YouTube by Loen Entertainment Inc A thought on an autumn night (가을밤에 든 생각) · JANNABI JANNABI's Small ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4FvqdZtH4xo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4FvqdZtH4xo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4FvqdZtH4xo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JANNABI - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-06T09:17:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sZ4zYmUDQ1eX_hrVR1Z8axLUhOE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8WcRVcLJpHA"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-16T22:46:17Z",
+        "channelId": "UClRxY7lEeNqc6oezxGSpkKA",
+        "title": "가을, 틀어두면 분위기 200% 🍂 | 카페 · 매장 팝송 playlist",
+        "description": "가을, 그냥 틀어두기만 해도 분위기 200% 완성되는 팝송 플레이리스트 ☕ 카페 · 매장 BGM은 물론, 공부할 때 · 일상 속에서도 함께 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8WcRVcLJpHA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8WcRVcLJpHA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8WcRVcLJpHA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SISO Wave",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-16T22:46:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hKQDBNJMUgcedo6w54x5Z-CPApY",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-16T16:04:12Z",
+        "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+        "title": "김가을",
+        "description": "가을입니다! ／instagram-kimmfall.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ZvnWAgIjZOBsbvbq0sIqRP4FPVMUyl4meXS3WSeihFC9ThU0vS6vqaLw9HaHzo3z3r-dHWX0sw=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ZvnWAgIjZOBsbvbq0sIqRP4FPVMUyl4meXS3WSeihFC9ThU0vS6vqaLw9HaHzo3z3r-dHWX0sw=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ZvnWAgIjZOBsbvbq0sIqRP4FPVMUyl4meXS3WSeihFC9ThU0vS6vqaLw9HaHzo3z3r-dHWX0sw=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "김가을",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-16T16:04:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GYv-SmBniRtgAhF5k1AUTqSCUnA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NCf5P-GDXd8"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-22T04:23:23Z",
+        "channelId": "UCdp8WGk7l78AIGooOvO35IQ",
+        "title": "가을, 파리의 낭만적 분위기 🍂 | 잔잔한 감성팝송 🍁 Design making tutorial",
+        "description": "가을플레이리스트 #광고없는팝송 #재즈팝 00:00:00 Paris in the Fall 00:02:53 Autumn Lights 00:06:07 Cozy Autumn Jazz 00:09:59 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NCf5P-GDXd8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NCf5P-GDXd8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NCf5P-GDXd8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Blue rain",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-22T04:23:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SyMehnbDsvY0SzFv5NPc5yOLe0s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0eyvWdgx_gk"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-20T09:00:01Z",
+        "channelId": "UCmBqBxouLDy3Mfu4XzESuAA",
+        "title": "𝗣𝗟𝗔𝗬𝗟𝗜𝗦𝗧 가을밤에 든 생각 | 잔나비, 카더가든, 샘김, 김필 •••",
+        "description": "이미지 : 최유진님의 \"Autumn 가을\" - 가을을 바라보다 \u200d  작가님 인스타그램 : https://www.instagram.com/art_like_it/ - 작품 속 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0eyvWdgx_gk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0eyvWdgx_gk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0eyvWdgx_gk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "인디인디 In The Indie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-20T09:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J76t4vTNprO3zOjltTithQERdrM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fwiiNCTwVSU"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-30T22:05:00Z",
+        "channelId": "UCfQ1J6CLkXVvpAgCoWtGvMQ",
+        "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 🍂 10월 시작은 노래로 📸 기분좋은 가을 감성 국내 팝·R&amp;B 플레이리스트 🎧",
+        "description": "[Playlist] 10월 시작은 노래로 기분좋은 가을 감성 국내 팝·R&B 플레이리스트 #플레이리스트 #플리 #playlist #팝 # ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fwiiNCTwVSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fwiiNCTwVSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fwiiNCTwVSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "잔잔",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-30T22:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gOFtaFKutSartNfQELjhOjKUBSI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pOOmkaNrrNY"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-28T23:52:42Z",
+        "channelId": "UCdp8WGk7l78AIGooOvO35IQ",
+        "title": "기분좋은 가을의 시작!✨ 경쾌한 가을 플레이리스트🍁 | 매장음악, 산책플리, 노동요 ☕ Design making tutorial",
+        "description": "광고없는팝송 #가을팝송 #가을플레이리스트 #노동요 #산책할때 00:00 City Spark 03:08 Posters on the Wall 06:21 Lights and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pOOmkaNrrNY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pOOmkaNrrNY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pOOmkaNrrNY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Blue rain",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-28T23:52:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9BBcjq-O41qjUvsWsqjOG5mOWyY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "91EbkS1e0Jg"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-24T09:00:25Z",
+        "channelId": "UCjO4StI9jjPI9xSIIixsYdw",
+        "title": "가을 오후 playlist | 짙어진 가을 향기에 마음이 물드는 순간 | 화사, WOODZ, 최유리, 정준일 | 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐌𝐨𝐦𝐞𝐧𝐭",
+        "description": "가을 오후 playlist | 짙어진 가을 향기에 마음이 물드는 순간 | 화사, WOODZ, 최유리, 정준일 | Personal Moment 짙은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/91EbkS1e0Jg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/91EbkS1e0Jg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/91EbkS1e0Jg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "퍼스널 Personal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-24T09:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rSTZetCSWIQcQKeZxnDCw0AOpL0",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCjefgkRNbdzmQn1YDlk6s6w"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-08T23:41:33Z",
+        "channelId": "UCjefgkRNbdzmQn1YDlk6s6w",
+        "title": "언제나가을 ALWAYSFALL",
+        "description": "보더콜리 가을과 함께하는 이세계 일상물.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_k78xCyuuwuR1u73ufNj5KBXefDmsmLilGU34VWeJQBHA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_k78xCyuuwuR1u73ufNj5KBXefDmsmLilGU34VWeJQBHA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_k78xCyuuwuR1u73ufNj5KBXefDmsmLilGU34VWeJQBHA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "언제나가을 ALWAYSFALL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-08T23:41:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q6bk_JO2CMKJd4gcelRdude70LE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a3RC1DqqVQg"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-06T21:00:01Z",
+        "channelId": "UCPr60olIaIBH1MswKCoyUrw",
+        "title": "7080 가을 음악다방-가을에 꼭 들어야 할 감성 플레이리스트!추억의 올드가요 메들리",
+        "description": "7080 가을 음악다방-가을에 꼭 들어야 할 감성 플레이리스트!추억의 올드가요 메들리 https://youtu.be/a3RC1DqqVQg 7080 감성 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a3RC1DqqVQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a3RC1DqqVQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a3RC1DqqVQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mango Radio",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-06T21:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ps4EDV2W1mcPzGF57Gbb7T-T9h0",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCzYO8qujWuc14LAaEtpidIA"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-30T06:34:14Z",
+        "channelId": "UCzYO8qujWuc14LAaEtpidIA",
+        "title": "박가을",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/2x0fofMw-60KSUvAOhNDwDiNFSN7YUQwXG6qC0VIISqqJwjnDr3OMjGfgD0ZdunWg_QUHf5_ZQ=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/2x0fofMw-60KSUvAOhNDwDiNFSN7YUQwXG6qC0VIISqqJwjnDr3OMjGfgD0ZdunWg_QUHf5_ZQ=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/2x0fofMw-60KSUvAOhNDwDiNFSN7YUQwXG6qC0VIISqqJwjnDr3OMjGfgD0ZdunWg_QUHf5_ZQ=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "박가을",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-30T06:34:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RzbixogMfmrpRY3OSw-vBJlR8iI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iYW4N6x0N4g"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-20T13:00:49Z",
+        "channelId": "UC-Fnix71vRP64WXeo0ikd0Q",
+        "title": "김가을 🌟 걷는 모든 곳이 Runway 🎬 #IVE #아이브 #GAEUL #가을 #Shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iYW4N6x0N4g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iYW4N6x0N4g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iYW4N6x0N4g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IVE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-20T13:00:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mfJreTtFQxgGucV4w19dk5DocPk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GUcMInX_EK4"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-09T02:41:05Z",
+        "channelId": "UCmFZ_3aK7lbNr3kLQ-s9P5g",
+        "title": "[2시간 연속재생]🍂가을감성 가득한 가을캐롤 [가을동요] 연속듣기🍂가을동요모음 | 동요모음 | 인기동요 | 감성동요 | 어린이동요 | 유치원동요 | 키즈카페 | Kids Songs",
+        "description": "알돌달록 예쁜 단풍잎들이 가득한 가을 동요로 듣는 가을이야기^^ Playlist 00:00 도토리 01:15 허수아비 아저씨 02:27 가을바람 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GUcMInX_EK4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GUcMInX_EK4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GUcMInX_EK4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bebepop-베베팝",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-09T02:41:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uE7VT64EH_viJF-p-Vtbaov4fr4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iFETUVnd9Pg"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-04T09:00:57Z",
+        "channelId": "UCLHYWdHibzsnW1M8ezRaxpQ",
+        "title": "[𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩] 가을 클래식 | 쇼팽, 드뷔시, 리스트, 노르웨이 숲",
+        "description": "playlist #music #piano #클래식 #가을플리 #쇼팽 #드뷔시 #노르웨이숲 #리스트 #가을 #classicalmusic #playlist #healingmusic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iFETUVnd9Pg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iFETUVnd9Pg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iFETUVnd9Pg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "노르웨이 숲 Norwegian Wood",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-04T09:00:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mUQwsrLKdi5hA1DftimSIvTSc-Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ma9PJWs3xOo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T12:57:59Z",
+        "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+        "title": "[vlog]새 집 적응은 고칼로리로..🍀(간장계란밥 꿀조합..💗/국물무뼈닭발+오돌뼈🍙/닭고기떡국/바지락술찜파스타/치즈돈까스/갈쿡파티/오토김밥 닭강정/뷔페 맛있오/시바견 택이)",
+        "description": "여러분 안녕하세요 이사하고 고칼로리로 새집 적응하는 브이로그로 인사두려요..^^ 핑계 좋았다     현실은 새집 적응할 틈도 없이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ma9PJWs3xOo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ma9PJWs3xOo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ma9PJWs3xOo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "김가을",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T12:57:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Dt6BliNsfuDNXcLBECCcx3nvhjQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BDToQmAqicM"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-08T14:00:06Z",
+        "channelId": "UC-Fnix71vRP64WXeo0ikd0Q",
+        "title": "IVE GAEUL 아이브 가을 &#39;7 Rings&#39; Performance Video",
+        "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF STARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0 IVE US EXCLUSIVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BDToQmAqicM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BDToQmAqicM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BDToQmAqicM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IVE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-08T14:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "exgMUL94dPcTB0wdocYST2y4gS4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0NmryXVGcbE"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-10T03:22:38Z",
+        "channelId": "UCx_dzPI6efSohgtOkAG43-A",
+        "title": "최고다! 호기심딱지 시즌 4 -  단풍은 왜 가을에 생겨요?",
+        "description": "호기심 딱지야 궁금한 걸 알려줘! 유치원 가을 소풍을 간 호떡이와 친구들. 유유에게 단풍잎을 선물 받은 호떡이. 호떡이는 다음 달에 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0NmryXVGcbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0NmryXVGcbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0NmryXVGcbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EBS 키즈",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-10T03:22:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2ng-VSOf-DaCWHoQc9sHqaj3IKk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gz2dALlAaYc"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-18T17:27:23Z",
+        "channelId": "UCDhBGh4uEJoux06kGn2xoAg",
+        "title": "아이브 가을 반응 대박난 오오 무대ㄷㄷㄷ",
+        "description": "가을 선배 마마에서 레전드 찍으셨다   미모+표정+춤+헤메코 전부 최고자나! 중학교 댄스부 출신답게 춤 잘춰ㅠㅠㅠㅠㅠ [2022 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gz2dALlAaYc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gz2dALlAaYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gz2dALlAaYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "가을선배 아카이브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-18T17:27:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XwvMAAWhmvVPjddxOYag6uhk6xg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uvOJ6KvwtFQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-20T22:00:06Z",
+        "channelId": "UCLALj8IRPex7XuQz11favbg",
+        "title": "☕🍁 가사 영상｜잔잔한 가을 아침 위로가 되는 발라드 컬렉션",
+        "description": "가사 영상｜잔잔한 가을 아침 위로가 되는 발라드 컬렉션 제 채널을 방문해 주셔서 감사합니다. 우리는 당신들을 위해 최고의 가장 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uvOJ6KvwtFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uvOJ6KvwtFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uvOJ6KvwtFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "발라드 걸작",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-20T22:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TyTpTCc66VoWMXVKsk7CcPGz13E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g1c0GRLzVrM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-01T13:41:45Z",
+        "channelId": "UCMVWMr9DyeoFpLknyryDDGQ",
+        "title": "아이브 가을 솔로 &#39;ODD&#39; 직캠 (IVE GAEUL solo FanCam) #IVE #GAEUL #아이브 #가을 #アイブ #ガウル 251101",
+        "description": "251101 아이브 가을 솔로 'ODD' 직캠 (IVE GAEUL solo FanCam) IVE WORLD TOUR [SHOW WHAT I AM] KSPO DOME #아이브 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g1c0GRLzVrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g1c0GRLzVrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g1c0GRLzVrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "미라이 MIRAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-01T13:41:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QUwOZXx6bVOIz_vWKpBNQ35n4NY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rF4Stqbh1wo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-05T10:31:00Z",
+        "channelId": "UCuQ4Mc90ZNZjaRnX549Vueg",
+        "title": "홀린듯이 계속 보게 되는 가을 솔로",
+        "description": "X @ sunset_ge 님 영상 #아이브 #ive #안유진 #유진 #가을 #레이 #장원영 #원영 #리즈 #이서 #아이돌 #idol #케이팝 #kpop #xoxz ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rF4Stqbh1wo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rF4Stqbh1wo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rF4Stqbh1wo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "디어마이리즈",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-05T10:31:00Z"
+      }
+    }
+  ]
+}

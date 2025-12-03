@@ -1,0 +1,838 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "vxgQk1YXuXnKwMxNlf2nLGDWUNE",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hKQDBNJMUgcedo6w54x5Z-CPApY",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-16T16:04:12Z",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+                "title": "김가을",
+                "description": "가을입니다! ／instagram-kimmfall.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ZvnWAgIjZOBsbvbq0sIqRP4FPVMUyl4meXS3WSeihFC9ThU0vS6vqaLw9HaHzo3z3r-dHWX0sw=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ZvnWAgIjZOBsbvbq0sIqRP4FPVMUyl4meXS3WSeihFC9ThU0vS6vqaLw9HaHzo3z3r-dHWX0sw=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ZvnWAgIjZOBsbvbq0sIqRP4FPVMUyl4meXS3WSeihFC9ThU0vS6vqaLw9HaHzo3z3r-dHWX0sw=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-08-16T16:04:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "v1PIrSqBVyt1rHRODubbP3KI4E0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-e8ePJvJeNI"
+            },
+            "snippet": {
+                "publishedAt": "2025-12-01T09:00:00Z",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+                "title": "[vlog]혼자 이천 여행(?)🤗(혼밥도 잘해요/닭발떡볶이+치킨/그릇 추천 언박싱🥣/치킨 중독ㅠ💗/김치볶음밥/무생채비빔밥/분당 맛집🤤/김치만두/페리카나 간장치킨/시바견 택이)",
+                "description": "여러분 안녕하세요! 평소보다 조금 이른시간에 인사드립니다  12월의 첫 브이로그… 시작이 조아…   오늘은 이천에 놀러가서 혼자 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-e8ePJvJeNI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-e8ePJvJeNI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-e8ePJvJeNI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-12-01T09:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mUQwsrLKdi5hA1DftimSIvTSc-Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ma9PJWs3xOo"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-24T12:57:59Z",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+                "title": "[vlog]새 집 적응은 고칼로리로..🍀(간장계란밥 꿀조합..💗/국물무뼈닭발+오돌뼈🍙/닭고기떡국/바지락술찜파스타/치즈돈까스/갈쿡파티/오토김밥 닭강정/뷔페 맛있오/시바견 택이)",
+                "description": "여러분 안녕하세요 이사하고 고칼로리로 새집 적응하는 브이로그로 인사두려요..^^ 핑계 좋았다     현실은 새집 적응할 틈도 없이 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ma9PJWs3xOo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ma9PJWs3xOo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ma9PJWs3xOo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-24T12:57:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yLkzXNyHxs0igtdTBFabswmKYic",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0qQD2zrB9E8"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-17T13:02:21Z",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+                "title": "[vlog]드디어 이사하는 브이로그🏡❤️‍🔥(정리지옥과 족발😇/구축아파트 인테리어/간단 집소개🛋/냉장고 채우기/힘들 땐 뿌링클이야/된장술밥/치즈돈까스/깨알 갈쿡/시바견 택이)",
+                "description": "보고계세용!!!!!1 여러분 안녕하세요!!!!!!!!!! 오늘은 드디어x100 이사하는 브이로그로 인사드려요!!!!!!!!!!   영상 올리는 지금도 아직 정리 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0qQD2zrB9E8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0qQD2zrB9E8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0qQD2zrB9E8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-17T13:02:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vgqDfapXmyb3pxcbwkuwupSV5tk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UiYUVhsBraM"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-02T15:21:24Z",
+                "channelId": "UCijMFPOf39WzABuHBsQHh3A",
+                "title": "251031 아이브 콘서트 SHOW WHAT I AM 가을 솔로곡 &#39;Odd&#39; 오드 직캠 ive gaeul solo odd 4k fancam",
+                "description": "twitter @sunset_ge #아이브 #가을 #ive #gaeul.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UiYUVhsBraM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UiYUVhsBraM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UiYUVhsBraM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sunset",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-02T15:21:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vaRntDh9U4D5ZAlmQXu76_Ur0dI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9IBjVzZpAQQ"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-27T12:51:05Z",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+                "title": "[vlog]맨날 떡볶이 먹는 브이로그(엽떡..신전..치즈라볶이../입터짐ㅠ/교촌 레드 반반/후식은 새우탕면으로🍤/오랜만에 죽음의조❤️‍🔥/두찜 실비한우곱찜/사과떡볶이/시바견 택이)",
+                "description": "여러분 보고계세용!!!!!!! 여러분 안녕하세요! 오늘은..맨날 떡볶이 먹는 일상인데… 진짜 맨날 먹었슴…. 안 찍은 것도 많아서 더더욱 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9IBjVzZpAQQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9IBjVzZpAQQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9IBjVzZpAQQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-27T12:51:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eNVcGZN8LxokZ-xcsNt8TydZ78s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HfAIudZBNyQ"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-10T12:38:15Z",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+                "title": "[vlog]경주 여행🛤(맛도리 대잔치!/인생 쌀떡볶이 만남/한우 숯불갈비/템플스테이에서 하룻밤/느좋 카페/매운 갈비찜/우엉 김밥/절에서 하는 도파민 풀충전)",
+                "description": "여러분 안녕하세요! 오늘은 경주여행으로 인사드립니다..   늦가을에 경주를 다녀왔는데요 맛있는 것도 많이 먹어서 행복했고.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HfAIudZBNyQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HfAIudZBNyQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HfAIudZBNyQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-10T12:38:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BZkJz82W2Q7BNYVJEGwRysR5S5Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "M0v_x_iIDrI"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-20T13:17:22Z",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+                "title": "[vlog]입맛이 돌고돌아..🪩(마라샹궈 도전/무뼈닭발 참치마요🍙/new동네 맛집 탐험/엄마와 무서운 이야기ㅠ/60계 간지 치킨/케찹탕수육 맛집🍅/옛날 치킨🍗/시바견 택이)",
+                "description": "여러분 안녕하세요! 오늘은 위장 도파민 파티로 인사드려봅니다..^_^ 잘 먹지도 않는 마라부터 시작하여…닭발..치킨..중식…또 치킨…",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M0v_x_iIDrI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M0v_x_iIDrI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M0v_x_iIDrI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-20T13:17:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZOABz98v6W52SqOJxT-s8vbsIWE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eKV4bbqr4s4"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-03T11:00:48Z",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+                "title": "[vlog]식비 대폭발 주간^^🍾(야식이 나라다/굽찐만두/진수성찬 집밥/이가네떡볶이/행궁동 나들이/이삭 토스트/마트 장보기/스테이크/마트 초밥🍣/피자도 맛있넴/시바견 택이)",
+                "description": "여러분 안녕하세요 11월의 첫 브이로그는 식비 대폭발 주간 브이로그로 인사두립니다..^^   식비도 내입도 다터져;; 영상만 보면 맨날 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eKV4bbqr4s4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eKV4bbqr4s4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eKV4bbqr4s4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-03T11:00:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wIxunklh39v8tTFPH0cuDTZ8pdY",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCrRoh3UhqJMK3PW2xe3MB4Q"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-01T07:50:07Z",
+                "channelId": "UCrRoh3UhqJMK3PW2xe3MB4Q",
+                "title": "김가을",
+                "description": "여러가지 게임을 하고 있습니다. 개인 문의 : zktk2027@naver.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/q1OaCN94Z9UL5Ebcn3c8uBmakmUbT1ratwGy3jzXLYqCvybBj0hsSNhGzI0kPr41hBAUFGsVzQ=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/q1OaCN94Z9UL5Ebcn3c8uBmakmUbT1ratwGy3jzXLYqCvybBj0hsSNhGzI0kPr41hBAUFGsVzQ=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/q1OaCN94Z9UL5Ebcn3c8uBmakmUbT1ratwGy3jzXLYqCvybBj0hsSNhGzI0kPr41hBAUFGsVzQ=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-01-01T07:50:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RYwKan1GZ_gSbqJ4lXIQXIYt7qw",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCuX_Nm8yncoh4C2121pasYQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-03T10:18:53Z",
+                "channelId": "UCuX_Nm8yncoh4C2121pasYQ",
+                "title": "김가을 - Topic",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/diAFaa98_aAVmey1YJD_ZX0DHU6QtceuY0_uhPpoebVkixYfdpqvFYvGlQiuwBNE_NXNiboVNAQ=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/diAFaa98_aAVmey1YJD_ZX0DHU6QtceuY0_uhPpoebVkixYfdpqvFYvGlQiuwBNE_NXNiboVNAQ=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/diAFaa98_aAVmey1YJD_ZX0DHU6QtceuY0_uhPpoebVkixYfdpqvFYvGlQiuwBNE_NXNiboVNAQ=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "김가을 - Topic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-03T10:18:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "f-3HssVsA5NGnDwId66gywQj3Ow",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pkSTkSudqzM"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-25T13:08:25Z",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+                "title": "[vlog]시드니 여행~🦘(험난하다 야반도주/와인..소주../스테이크 맛있다!/낮술과 화덕빵과 파스타/브런치 맛있어🥑/하이디라오 훠궈/팬케이크 맛있자나/너무 좋았던 아트갤러리💗)",
+                "description": "여러분 안녕하세요! 한주 쉬었는데…왜이리 오랜만인 것 같죠…??   오늘은 7월 말에 다녀왔던 호주 여행 브이로그로 인사드려 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pkSTkSudqzM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pkSTkSudqzM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pkSTkSudqzM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-25T13:08:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Z_P1xQ11uiqWy-Zr8VjqReC2Og8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "24P0a9Ooty8"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-19T07:26:06Z",
+                "channelId": "UCJqdJQS2rnr2VuhF-fHh09Q",
+                "title": "촬영 중에 쓰러진 김가을 ! #아이브 #ive #kpop",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/24P0a9Ooty8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/24P0a9Ooty8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/24P0a9Ooty8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "인턴 고양이",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-19T07:26:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NW3TpkpTfaQvZD_5TjmoErUfLGg",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCCFhbr62AggmZtFOAJEP7Kw"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-08T08:18:43Z",
+                "channelId": "UCCFhbr62AggmZtFOAJEP7Kw",
+                "title": "김가을",
+                "description": "엉망진창 무한도전하는 30대 채널.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/iMyEuak_ydE8PYD_lCLQCOrweRwUtRLDgkY9A3hZvQZCp9bZOrbaHY_bGqvD7Xd8k_1o6Kf64A=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/iMyEuak_ydE8PYD_lCLQCOrweRwUtRLDgkY9A3hZvQZCp9bZOrbaHY_bGqvD7Xd8k_1o6Kf64A=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/iMyEuak_ydE8PYD_lCLQCOrweRwUtRLDgkY9A3hZvQZCp9bZOrbaHY_bGqvD7Xd8k_1o6Kf64A=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-08T08:18:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RzbixogMfmrpRY3OSw-vBJlR8iI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iYW4N6x0N4g"
+            },
+            "snippet": {
+                "publishedAt": "2024-09-20T13:00:49Z",
+                "channelId": "UC-Fnix71vRP64WXeo0ikd0Q",
+                "title": "김가을 🌟 걷는 모든 곳이 Runway 🎬 #IVE #아이브 #GAEUL #가을 #Shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iYW4N6x0N4g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iYW4N6x0N4g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iYW4N6x0N4g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "IVE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-09-20T13:00:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "txL2Dv6sDggOh6kZxDvDxqQ7Z2Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3uZ86Edb0jI"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-11T13:18:15Z",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+                "title": "[vlog]냉털과 새로운 소식🕊(열무비빔밥/삼첩분식 바질크림떡볶이/닭껍질튀김🤎/짜파구리/불닭소스 중독자/한 대접 샐러드 파스타/송파구 맛집/숙성회 파스타/시바견 택이)",
+                "description": "여러분 안녕하세요! 저번주에 새로운 소식 있다고 말씀드렸는데..... 제 생각보다 더 많이 궁금해하시고(?) 기대해주셔서…… 아 내가 별 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3uZ86Edb0jI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3uZ86Edb0jI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3uZ86Edb0jI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-11T13:18:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vd_GaJtBrdPEcxD7tkXltXFdqYA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BXdJwzYoRPA"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-06T05:00:21Z",
+                "channelId": "UCREysLDNgfEzI8hMa6Z-wdw",
+                "title": "안유진 당황하게 만드는 가을언니 ㅋㅋㅋ #안유진 #김가을 #아이브 #아이돌 #걸그룹 #폴더즈",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BXdJwzYoRPA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BXdJwzYoRPA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BXdJwzYoRPA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "안빼고유진",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-06T05:00:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gvuzmOXZx_toZtzMTm8u93Yi53U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "00D12pdly2M"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-15T12:21:33Z",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+                "title": "[vlog]먹고 또 먹는 브이로그ㅎ(엽떡이 최고야.../교촌 맛있엉/깨알취객..ㅋ🍺/사랑의 집밥🍚/수육전골/고등어 조림/잡채 브런치ㅠㅋㅋ/아웃백 조아/피자와 닭발/시바견 택이)",
+                "description": "여러분 안녕하세요!!!!!!!!!! 먹고 또 먹는 브이로그로 인사드립니다(_ _)  ㅋㅋㅋㅋ 다들 월요일 잘 보내셨나요! 날씨가 아침저녁으로 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/00D12pdly2M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/00D12pdly2M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/00D12pdly2M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-15T12:21:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ofNALnlxMj1zm75TozDZWWC6DQc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JvwXIFWTAgU"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-08T11:00:07Z",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+                "title": "[vlog]속초 여행하기🍂(누룽지오징어순대 중독/인생탕수육 만남+짜장면💗/대게 최고/느좋 카페/썸웨어버터🧈/수육 막국수 맛있다!/오징어회/대포항/아기랑 여행)",
+                "description": "여러분 안녕하세요! 오늘은 속초여행 브이로그로 인사드립니다   무려 5개월 봄이와 함께 떠난 ☆첫 여행이었는데요 사실 봄이랑 같이 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JvwXIFWTAgU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JvwXIFWTAgU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JvwXIFWTAgU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-08T11:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Bj1KVUj8Baw6UfIdcESEkqIOzG0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "a6qa7g_ObrQ"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-15T04:00:01Z",
+                "channelId": "UCREysLDNgfEzI8hMa6Z-wdw",
+                "title": "가을언니에게 도발하는 안유진 ㅋㅋㅋ #아이브 #안유진 #김가을 #가을선배 #가을언니 #anyujin #ive",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a6qa7g_ObrQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a6qa7g_ObrQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a6qa7g_ObrQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "안빼고유진",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-15T04:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-VlswzVTnvnenGdDVpuu5Yb96sY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ar9DPnh_e-I"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-04T11:00:14Z",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+                "title": "[vlog]밥해먹는 집순이다🍚(드디어 차 나옴🚙/치킨 중독이 틀림없어/무생채 비빔밥 재도전/매운 국물무뼈닭발/피부 관리!/콰삭킹 맛있오/용가리 떡갈비/교촌 허니콤보/시바견 택이)",
+                "description": "여러분 무생채 레시피 오타났어요... 고춧가루 2가 아니고 5입니다!! ⭐️ 2넣었다가는 무생채계의 평양냉면될거임 여러분 안녕하세요!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ar9DPnh_e-I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ar9DPnh_e-I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ar9DPnh_e-I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-04T11:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gvW2RCJB0PcP11yJwHd4EefhGvM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "afuxMkMyHdQ"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-30T13:22:10Z",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+                "title": "[vlog]야식의 축복이 끝이없네😇(백일잔치/갈또치킨..ㅋ/소주 갈아재/집밥이 맛있긴해/똥집튀김/미역국 치킨너겟 미니돈까스/역전할맥/코스트코 실패…😇/페리카나/시바견 택이)",
+                "description": "여러분 안녕하세요! 오늘은 디제이 복직 전 마지막…브이로그.. 조금 눈물나는 브이로그…(나만 눈물) 입네다.. ㅋㅋㅋㅋㅋㅋㅋㅋ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/afuxMkMyHdQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/afuxMkMyHdQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/afuxMkMyHdQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-30T13:22:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6iIFZILQ8s47jNbRQwMcCZNjx14",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4Cbp41DRTWk"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-07T13:13:20Z",
+                "channelId": "UCUWU2sdN5y8hxvpWn2ZWiuA",
+                "title": "[vlog]혼자서도 잘먹어요🫕(무생채 비빔밥/가방 삼✨언박싱/인생 된찌…/브런치를 이렇게 많이../갈토스트 갈샐러드🥗/족발 막국수 주먹밥/갓잇 타코 맛있어!/시바견 택이)",
+                "description": "여러분 안녕하세요! 7월 첫 브이로그 인사드립니다  ⛱(더워...) 휴...요즘 영상 업로드하는데 유튜브에서 뭔 검사를 왜이리 오래하는지.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4Cbp41DRTWk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4Cbp41DRTWk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4Cbp41DRTWk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김가을",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-07T13:13:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IOq3grw1QywwZlyzVAZXbxvghsQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DGnlpVp_UDo"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-07T09:00:13Z",
+                "channelId": "UC8ldLHWxGMWo-NBprXjEzHQ",
+                "title": "아이브 군기 반장, 가을 선배 ㄷㄷㄷㄷㄷ",
+                "description": "아이브 #아이돌 #연예인 #shorts.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DGnlpVp_UDo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DGnlpVp_UDo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DGnlpVp_UDo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "아이브쇼츠",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-07T09:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gSzlr1ozrnyUhAYfP_XlxXS6F8o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9uW-nQspnBQ"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-13T11:00:29Z",
+                "channelId": "UCkVpvSYSvf5RO1OtwWFz8XA",
+                "title": "[아이브] 가을 언니한테 시비 거는 안유진",
+                "description": "아이브 #ive #안유진 #가을 #레이 #장원영 #리즈 #이서 영상출처:1,2,3 IVE 6 EP.1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9uW-nQspnBQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9uW-nQspnBQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9uW-nQspnBQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "언제나리즈",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-13T11:00:29Z"
+            }
+        }
+    ]
+}
