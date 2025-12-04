@@ -8,7 +8,7 @@ export default function Header() {
         <div className='w-9 overflow-hidden'>
           <img className='w-full h-full' src='/youtube.svg' alt='유투브 로고' />
         </div>
-        <p className='text-2xl tracking-tighter font-bold font-mono'>Youtube</p>
+        <p className='text-2xl tracking-tighter font-bold'>Youtube</p>
       </div>
       <Search />
       <div className='cursor-pointer'>

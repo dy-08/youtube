@@ -8,24 +8,24 @@ import Short from './pages/Short';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 
 const router = createBrowserRouter([
-    {
-        path: '/',
-        element: <Root />,
-        errorElement: <NotFound />,
-        children: [
-            { index: true, element: <Home /> },
-            { path: 'short', element: <Short /> },
-            { path: 'videos/:keyword', element: <Videos /> },
-            { path: 'videos/videoDetail/:channelId', element: <VideoDetail /> },
-        ],
-    },
+  {
+    path: '/',
+    element: <Root />,
+    errorElement: <NotFound />,
+    children: [
+      { index: true, element: <Home /> },
+      { path: 'short', element: <Short /> },
+      { path: 'videos/:keyword', element: <Videos /> },
+      { path: 'videos/videoDetail/:channelId', element: <VideoDetail /> },
+    ],
+  },
 ]);
 
 const queryClient = new QueryClient();
 export default function App() {
-    return (
-        <QueryClientProvider client={queryClient}>
-            <RouterProvider router={router} />
-        </QueryClientProvider>
-    );
+  return (
+    <QueryClientProvider client={queryClient}>
+      <RouterProvider router={router} />
+    </QueryClientProvider>
+  );
 }

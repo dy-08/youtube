@@ -1,14 +1,30 @@
-export default function Card({ thumbnail, title, channelTitle, publishedAt }) {
+export default function Card({
+  thumbnail,
+  title,
+  channelTitle,
+  publishedAt,
+  form,
+}) {
   return (
-    <article className='w-full h-102 overflow-hidden cursor-pointer p-2.5 transition duration-300 ease-in-out hover:bg-stone-700/10 hover:rounded-xl box-border'>
-      <div className='w-lg overflow-hidden aspect-video rounded-md'>
+    <article
+      className={`w-full flex flex-${form} box-border ${
+        form === 'row' && 'gap-2 my-1'
+      }`}
+    >
+      <div
+        className={`${
+          form === 'col' ? 'w-full h-[292px]' : 'w-2/5 h-[94px]'
+        } rounded-xl overflow-hidden transition-all duration-300 ease-in-out hover:rounded-none`}
+      >
         <img
-          className='w-full h-full object-cover transition duration-300 ease-in-out hover:scale-98'
+          className={`w-full h-full object-cover ${
+            form === 'col' ? 'scale-105' : 'scale-110'
+          }`}
           src={thumbnail.high.url}
           alt='thumbnail'
         />
       </div>
-      <div className='p-2 w-lg'>
+      <div className={`${form === 'col' ? 'w-full' : 'w-3/5'} h-full`}>
         <p className='text-base font-semibold line-clamp-2'>{title}</p>
         <p className='text-sm'>{channelTitle}</p>
         <p className='text-sm'>{publishedAt}</p>
