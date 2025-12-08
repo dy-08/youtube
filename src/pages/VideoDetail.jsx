@@ -1,10 +1,11 @@
 import { useQuery } from '@tanstack/react-query';
-import { useLocation } from 'react-router-dom';
+import { useLocation, useNavigate } from 'react-router-dom';
 import Card from '../components/Card';
 import { Skeleton } from '@mui/material';
 import { fetchYoutubeVideos } from '../api/youtube';
 
 export default function VideoDetail() {
+    const navigate = useNavigate();
     const { state } = useLocation();
     // https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails,status&id=VtJ_2SbYoIM&key=AIzaSyC8t3lJJURohhFXjaA4dDmwfjPivbchDR8
     const videoId = state.id;
@@ -49,6 +50,10 @@ export default function VideoDetail() {
         );
     }
     if (error) return <p>{error.message}</p>;
+    const handleClick = (item) => {
+        const channelId = item.snippet.channelId;
+        navigate(`/videos/videoDetail/${channelId}`, { state: item });
+    };
 
     return (
         <section className='flex-1 flex flex-row px-30 gap-6 h-[calc(100dvh-64px)]'>
@@ -75,7 +80,7 @@ export default function VideoDetail() {
             <div className='w-2/7 h-screen overflow-scroll overflow-x-hidden box-border'>
                 <ul className='flex flex-col w-full'>
                     {channelVideos.map((item) => (
-                        <li key={item.etag} className='flex'>
+                        <li key={item.etag} className='flex' onClick={() => handleClick(item)}>
                             <Card
                                 thumbnail={item.snippet.thumbnails}
                                 title={item.snippet.title}
