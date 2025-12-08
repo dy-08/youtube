@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "aSaHabm-IslCF_cKJeEne32sd3E",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WqsBD6nqKGYRMF36hoI6Yc936DM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tduvOkmiif4"
+            },
+            "snippet": {
+                "publishedAt": "2025-12-08T01:01:20Z",
+                "channelId": "UCmBqBxouLDy3Mfu4XzESuAA",
+                "title": "𝗣𝗟𝗔𝗬𝗟𝗜𝗦𝗧 이번 겨울은 더 행복하기를 | 검정치마, 백예린, 존박, 잔나비 •••",
+                "description": "이미지 : 혁구님의 \"Christmas firework\" ‍   작가소개 : 일상의 빛과 감정을 그리는 일러스트레이터 혁구입니다 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tduvOkmiif4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tduvOkmiif4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tduvOkmiif4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "인디인디 In The Indie",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-12-08T01:01:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sXU1TxgJ7S4R7uUFxaufy3AxCxw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GUj1IdLsfCU"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-30T22:00:27Z",
+                "channelId": "UCLt0YU2xt38gLp0wst3wmWw",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 12월 1일❄️, 월요일을 따뜻하게 만들어줄 겨울 감성 플레이리스트🎶 | 트렌디한 겨울 노래 모음",
+                "description": "Playlist 12월 1일❄️, 월요일을 따뜻하게 만들어줄 겨울 감성 플레이리스트   | 트렌디한 겨울 노래 모음 #팝송추천 #팝송 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GUj1IdLsfCU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GUj1IdLsfCU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GUj1IdLsfCU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "카리나 Karina",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-30T22:00:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jE0Uk6C-VcAAk0g8S8VYt8JNICE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eN5mG_yMDiM"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-04T15:00:11Z",
+                "channelId": "UCzw-C7fNfs018R1FzIKnlaA",
+                "title": "BIGBANG - &#39;봄여름가을겨울 (Still Life)&#39; M/V",
+                "description": "BIGBANG - 봄여름가을겨울 (Still Life) 이듬해 질 녘 꽃 피는 봄 한여름 밤의 꿈 가을 타 겨울 내릴 눈 1년 네 번 또다시 봄 정들었던 내 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eN5mG_yMDiM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eN5mG_yMDiM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eN5mG_yMDiM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BIGBANG",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-04T15:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Uc7o1GT_zP3aJxk3wBkBK79hu7U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4rlUpgvtbQc"
+            },
+            "snippet": {
+                "publishedAt": "2015-04-14T12:01:01Z",
+                "channelId": "UCagb7BTiMyfPEr7KGORTbeA",
+                "title": "Romantic winter (feat.Kim Jin Ho of SG Wannabe) (로맨틱 겨울 (FEAT.김진호 OF SG워너비))",
+                "description": "Provided to YouTube by Kakao Entertainment Romantic winter (feat.Kim Jin Ho of SG Wannabe) (로맨틱 겨울 (FEAT.김진호 OF ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4rlUpgvtbQc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4rlUpgvtbQc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4rlUpgvtbQc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kim Jin-pyo - Topic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-04-14T12:01:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "16m3_YLHmj-f07R3j5mXIa17CzM",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLe4RkNANy6sscJ0VgQIwxybMvmQa7owjo"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-12T08:27:02Z",
+                "channelId": "UCgx0ARezGF9UIBecTsVddmA",
+                "title": "겨울노래❄️☃️🌨",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b-8ZFJo_0sI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b-8ZFJo_0sI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b-8ZFJo_0sI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "lily yu",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-12T08:27:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Sg-1Soc4BQzShiYgD0SSw1iqFRw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xTzaswTXXe0"
+            },
+            "snippet": {
+                "publishedAt": "2020-01-17T05:00:14Z",
+                "channelId": "UCk-JTg4sjiascKX6ZM2-DEA",
+                "title": "Hye Na Park, AURORA - 숨겨진 세상 (From “겨울왕국 2”/Sing-Along)",
+                "description": "Music video by Hye Na Park, AURORA performing 숨겨진 세상 (From “겨울왕국 2”/Sing-Along).© 2019 Walt Disney Records.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xTzaswTXXe0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xTzaswTXXe0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xTzaswTXXe0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DisneyMusicKoreaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-01-17T05:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3Dei1IhdNtpl2zDDjVzoSlJNK60",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lLjdG-XvGoQ"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-19T09:00:45Z",
+                "channelId": "UCQqEWSmdf0970sOmG4GIHbw",
+                "title": "겨울 러닝복장 완벽 정리🥶🧤",
+                "description": "겨울러닝 #러닝복 #러닝화.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lLjdG-XvGoQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lLjdG-XvGoQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lLjdG-XvGoQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지니코치",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-19T09:00:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yalkHWqhCWpYetXU_UQqYtKxXkQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1Qkp8aipbxg"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-26T03:14:06Z",
+                "channelId": "UCwbywINGd5t55md6Ae_mc6A",
+                "title": "따뜻한 겨울 Our Season",
+                "description": "Provided to YouTube by SM Entertainment 따뜻한 겨울 Our Season · JONGHYUN JONGHYUN The Collection \"Story Op.2\" ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1Qkp8aipbxg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1Qkp8aipbxg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1Qkp8aipbxg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JONGHYUN - Topic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-04-26T03:14:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0swhzuHVztgAf24KoH4fMhbD4kg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ql7WfNJ5ks0"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-04T05:29:11Z",
+                "channelId": "UCmZ19AIj_wcpwRcqG7p9L8g",
+                "title": "Mr. 2 - &#39;하얀 겨울&#39; | Mr. 2 - &#39;White Winter&#39; 【KBS 가요톱10, 1994】",
+                "description": "KBS 2TV 가요톱10 - 1994년 1월 2주(19940112) Mr. 2 - '하얀 겨울' | Mr. 2 - 'White Winter' 【KBS 가요톱10】 #Again가요톱10 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ql7WfNJ5ks0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ql7WfNJ5ks0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ql7WfNJ5ks0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Again 가요톱10 : KBS KPOP Classic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-10-04T05:29:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TJTS8wwrx9USDd5C7AwZcWAZ1K0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GFOEONoKXkQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-02T08:00:07Z",
+                "channelId": "UCiMpBxWnunMYzRUc2NDh33A",
+                "title": "겨울철 안전 특집🎿 | 로보카폴리 스페셜 | 겨울 특집 | 겨울철 사고에 주의하며 놀아요 | 로보카폴리 TV",
+                "description": "로보카폴리 공식 스토어 구경하기→ https://bit.ly/3h1ipv8 로보카폴리 TV 지금 바로 구독하기→ https://bit.ly/362OcFS 겨울철 안전 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GFOEONoKXkQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GFOEONoKXkQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GFOEONoKXkQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "로보카폴리 TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-02T08:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Qrw2CZtaJrxbOmgpUZehaGNY9U8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "G9a27bF8mYU"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-29T00:45:59Z",
+                "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+                "title": "히터도 못 틀고 겨울 맞았다는 전기차 운전자 #shorts",
+                "description": "SBS뉴스 #8뉴스 #실시간 으로 만나 보세요 라이브 뉴스 채널 SBS 모바일24 ▷SBS 뉴스로 제보해주세요 홈페이지: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G9a27bF8mYU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G9a27bF8mYU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G9a27bF8mYU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SBS 뉴스",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-29T00:45:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OMOM1uiO_HfCTh9gJrE0SO_grlU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nvTAK3Nsp7I"
+            },
+            "snippet": {
+                "publishedAt": "2023-12-14T08:15:01Z",
+                "channelId": "UCI3hjd7_4Uf0B3bSeTPah-Q",
+                "title": "시베리아 출신이 느끼는 한국 겨울",
+                "description": "시베리아 #겨울 #겨울추위 #한국겨울 #추위.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nvTAK3Nsp7I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nvTAK3Nsp7I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nvTAK3Nsp7I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "이스모",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-12-14T08:15:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6tiZfM1mdZPlpZySV_lfz84v-do",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "T8Dthto-e_I"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-27T12:00:06Z",
+                "channelId": "UCmZ19AIj_wcpwRcqG7p9L8g",
+                "title": "[#again_playlist] 한국인이 사랑하는 ❄겨울 노래☃ 모음.zip☃ | KBS 방송",
+                "description": "again_playlist] 한국인이 사랑하는 겨울 노래 모음집 | KBS 방송 #again가요톱10 #again_playlist #겨울노래 #겨울 00:00:00 DJ DOC ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T8Dthto-e_I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T8Dthto-e_I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T8Dthto-e_I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Again 가요톱10 : KBS KPOP Classic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-27T12:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qISm_9tnyi63uAkFH8DtYvHmLqU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VB4-yt5Kelo"
+            },
+            "snippet": {
+                "publishedAt": "2023-12-20T09:00:16Z",
+                "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+                "title": "[MV] HYB(허용별) (허각, 신용재, 임한별) _ The Winter(그 겨울엔 네가 있어)",
+                "description": "[MV] HYB(허용별) (허각, 신용재, 임한별) _ The Winter(그 겨울엔 네가 있어) K-POP Wonderland, 1theK K-POP의 모든 즐거움을 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VB4-yt5Kelo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VB4-yt5Kelo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VB4-yt5Kelo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "1theK (원더케이)",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-12-20T09:00:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ihzxd0HU69z9oDQcJ1lQHSqBbqQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d6oZ0mxEo7E"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-21T04:00:18Z",
+                "channelId": "UCk-JTg4sjiascKX6ZM2-DEA",
+                "title": "Jang-Won Lee - 여름날 (From &quot;겨울왕국&quot;)",
+                "description": "Music video by Jang-Won Lee performing 여름날 (From \"겨울왕국\").© 2020 Walt Disney Records.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d6oZ0mxEo7E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d6oZ0mxEo7E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d6oZ0mxEo7E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DisneyMusicKoreaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-21T04:00:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YRupmKPcGudHPNGvPcdYm_EZ6mg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hpDrm_FU7Y4"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-25T00:00:54Z",
+                "channelId": "UClRxY7lEeNqc6oezxGSpkKA",
+                "title": "눈 오는 겨울에 딱 듣기 좋은 팝⛄❄️ | Winter Pop Playlist",
+                "description": "눈 오는 겨울에 딱 어울리는 팝 노래 모음⛄❄️ Cozy Winter Pop Playlist for snowy days and cold winter vibes. 겨울 감성 채우는 팝 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hpDrm_FU7Y4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hpDrm_FU7Y4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hpDrm_FU7Y4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SISO Wave",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-25T00:00:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fItJUHcrz6ZqRsrxrjXWmZj3RNg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2zNCMmns4Vc"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-18T09:00:06Z",
+                "channelId": "UCRuSxVu4iqTK5kCh90ntAgA",
+                "title": "겨울철 직장인 특",
+                "description": "오늘도 시청해주셔서 감사드립니다! [총몇명 스튜디오] 총감독 : 총몇명 / 부감독 : 콜드제로 / 제작진행 : 스노유진 / 스토리보드 : 지혜팍 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2zNCMmns4Vc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2zNCMmns4Vc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2zNCMmns4Vc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "총몇명",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-18T09:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xiIPv2mjK9iWUVEenOjqOLS66OM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e4V9YNuol70"
+            },
+            "snippet": {
+                "publishedAt": "2025-01-02T09:00:41Z",
+                "channelId": "UCd-OrgPLrnQiQBcq19j5oEQ",
+                "title": "이예은 LEE YEEUN - 내가 없는 겨울은 어떤가요 How is winter without me (Feat. 아샤트리(방태연)) Official M/V",
+                "description": "이예은 #LEE_YEEUN #내가없는겨울은어떤가요 #How_is_winter_without_me 이예은 LEE YEEUN - 내가 없는 겨울은 어떤가요 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e4V9YNuol70/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e4V9YNuol70/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e4V9YNuol70/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GENIE MUSIC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-01-02T09:00:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gbyDCwU0eSttnCKVKF6KUc4YGNg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "er1RYWQf0Gc"
+            },
+            "snippet": {
+                "publishedAt": "2012-11-30T03:00:13Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "김범수,박정현(Kim Bum Soo, Lena Park) - 하얀 겨울(White Winter)",
+                "description": "대한민국 대표 보컬리스트 김범수, 박정현의 로맨틱 콜라보레이션 [하얀 겨울] 11월 30일(금) 그들의 달콤한 겨울 이야기가 시작된다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/er1RYWQf0Gc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/er1RYWQf0Gc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/er1RYWQf0Gc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-11-30T03:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-w_FZRYOUJWdYlhST_DdxgzYhUo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PGQj93kYl9w"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-15T05:51:42Z",
+                "channelId": "UCmZ19AIj_wcpwRcqG7p9L8g",
+                "title": "강수지 - &#39;혼자만의 겨울&#39; |  Kang Su sie - &#39;Winter Alone&#39; 【KBS 가요톱10, 1996】",
+                "description": "KBS 2TV 가요톱10 - 1996년 1월 1주(19960103) 강수지 - '혼자만의 겨울' | Kang Su sie - 'Winter Alone' 【KBS 가요톱10】 #Again ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PGQj93kYl9w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PGQj93kYl9w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PGQj93kYl9w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Again 가요톱10 : KBS KPOP Classic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-10-15T05:51:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bDhVZxE6ElYMs2QRow-zKVOgWnA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JiPl8msZedw"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-31T15:00:23Z",
+                "channelId": "UCAqA1IezTtq7NCRw5ntxOaQ",
+                "title": "겨울동화 (겨울동화)",
+                "description": "Provided to YouTube by Kakao Entertainment 겨울동화 (겨울동화) · LABOUM 겨울동화 ℗ 2025 Beyond Music,under license to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JiPl8msZedw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JiPl8msZedw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JiPl8msZedw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LABOUM - Topic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-31T15:00:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MOjy5700wDXYWStalNz5J7WLbkI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lz2i5IDwIjY"
+            },
+            "snippet": {
+                "publishedAt": "2023-12-27T03:00:31Z",
+                "channelId": "UC1PqFAlePcXy419VNXVOqCA",
+                "title": "한국 겨울이 유독 추운 이유",
+                "description": "잡지사 방송 | 매주 월~금 오후 7시30분~8시 CBS 라디오 표준FM 98.1MHz #잡다한지식사전 #핀란드 #레오.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lz2i5IDwIjY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lz2i5IDwIjY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lz2i5IDwIjY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "이강민의 잡지사",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-12-27T03:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iYozGE7XmS41AC0sevgbjp0JSzk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GcHbMjfC3OQ"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-25T11:43:02Z",
+                "channelId": "UC3CELODQnl5pGSWyS3OmMOA",
+                "title": "☃️천재가 개발한 겨울 캠핑꿀템 Top3🏕️",
+                "description": "가스없어도 라면 끓이기 쌉가능입니 마법의 팩 뜯고 라면넣고 물 옇어주면 10초만에 뜨끈하게 물이 끓어요! 반신반의했는데 라면도 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GcHbMjfC3OQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GcHbMjfC3OQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GcHbMjfC3OQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "소개팁 IntroTip",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-25T11:43:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uEarT50w_WuzYAtFEDnKjW9wycs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yI_VFVxEdYI"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-31T04:00:23Z",
+                "channelId": "UCk-JTg4sjiascKX6ZM2-DEA",
+                "title": "Si-Young Yoon, Ji-Min Lee, Ji-Yoon Park - 같이 눈사람 만들래? (From &quot;겨울왕국&quot;)",
+                "description": "Music video by Si-Young Yoon, Ji-Min Lee, Ji-Yoon Park performing 같이 눈사람 만들래? (From \"겨울왕국\").© 2020 Walt Disney ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yI_VFVxEdYI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yI_VFVxEdYI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yI_VFVxEdYI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DisneyMusicKoreaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-31T04:00:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IODqLnynzJvWhTwNLmr39Q9B_gs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QD0HlPv4X54"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-16T07:30:08Z",
+                "channelId": "UCWhiqHa4dVohOTSUQwK-l2g",
+                "title": "겨울에 샤워할 때 공감",
+                "description": "야코 스튜디오 빨간내복야코, 부비, 취소, 식혜, 호짱, 은개.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QD0HlPv4X54/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QD0HlPv4X54/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QD0HlPv4X54/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "빨간내복야코",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-16T07:30:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FDxeSaeIK7nqN16nmNZ90kwDjA8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PgiD2GmtO1c"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-07T03:30:16Z",
+                "channelId": "UCx_dzPI6efSohgtOkAG43-A",
+                "title": "🐷저팔계의 겨울 피부 사랑｜🥶동상에 걸렸어요｜💡최고다! 호기심 딱지💡｜[EBS놀이터]",
+                "description": "EBS키즈 구독하기 클릭! → https://bit.ly/EBSKIDS ❣️EBS의 영상을 더 보고싶다면? → http://www.ebs.co.kr/ ❣️EBS 공식 스토어 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PgiD2GmtO1c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PgiD2GmtO1c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PgiD2GmtO1c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EBS 키즈",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-07T03:30:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SL52QFxWbVMP4HW-zOEtuSMLIIk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2mkOUrmsUmA"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-11T23:49:00Z",
+                "channelId": "UCbsHYIZwk9pZIMp53ciDjOw",
+                "title": "Playlist | 겨울을 담은, 재즈",
+                "description": "모든 음원은 직접 작곡 또는 편곡 및 연주한 음원이에요.  ‍❤️‍  ‍   더 좋은 새로운 음악을 만나보고 싶다면 구독과 좋아요를 눌러 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2mkOUrmsUmA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2mkOUrmsUmA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2mkOUrmsUmA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jazzne | 기분Jazz네",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-11T23:49:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OJN0AG3HenLZK0b6rl_MLp6yNmI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "D66I_3uy9bU"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-07T14:00:02Z",
+                "channelId": "UC1cWTErb7vw_UmmuB0dYgsQ",
+                "title": "【#복면가왕클린】손승연 Sonnet(Seung-yeon SON) - 겨울사랑(Winter Love) | 클린버전 | 무자막 | 무대 오디오 Only | #TVPP",
+                "description": "역대 복면가왕을 빛낸 ＂가왕 스페셜＂업데이트가 진행되고 있습니다. 풀버전, 클린 버전으로 업데이트되고 있으니 많은 좋아요 / 구독 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D66I_3uy9bU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D66I_3uy9bU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D66I_3uy9bU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TV-People",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-07T14:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bjQMbo7BlijZ7ebTVwz6XchmsbA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sA19OhBUTh8"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-14T09:00:07Z",
+                "channelId": "UCD_-N4vf-tsqbUxrQ4CrJIA",
+                "title": "빙판길을 조심해요 | 깨비안전교육 | 겨울안전 | 안전맨 | 몽구 | 깨비키즈 KEBIKIDS",
+                "description": "[겨울안전] 빙판길을 걸어가는 몽구가 안전하게 다치지 않고 보행할 수 있도록 지도합니다. 깨비키즈 구독하기 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sA19OhBUTh8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sA19OhBUTh8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sA19OhBUTh8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "깨비키즈 [KEBIKIDS]",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-14T09:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4ufcnwhGhBR6CslvdJ277x5lHM0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Kk9e-zkOk88"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-15T01:30:07Z",
+                "channelId": "UCmBqBxouLDy3Mfu4XzESuAA",
+                "title": "𝗣𝗟𝗔𝗬𝗟𝗜𝗦𝗧 겨울을 좋아하는 사람들 | 이하이, 백예린, 존박, 권진아  •••",
+                "description": "이미지 : 혁구님의 \"Romantic Christmas\" ‍  작가님 인스타그램 : https://www.instagram.com/hyuukgoo/ - 따듯한 일상의 이야기 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kk9e-zkOk88/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kk9e-zkOk88/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kk9e-zkOk88/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "인디인디 In The Indie",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-15T01:30:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PubfXPkuHlvIdx3ie7fJ6VyxhP8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JY-gJkMuJ94"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-11T09:00:12Z",
+                "channelId": "UCzh4yY8rl38knH33XpNqXbQ",
+                "title": "겨울봄 (Winter Spring) MV - 이세계아이돌 (ISEGYE IDOL)",
+                "description": "겨울봄 (Winter Spring) MV - 이세계아이돌 (ISEGYE IDOL) 음원링크 : https://fanlink.to/winterspring [Credit] MV : Tranquillo illust ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JY-gJkMuJ94/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JY-gJkMuJ94/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JY-gJkMuJ94/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "왁타버스 WAKTAVERSE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-11T09:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1SksNuyoj69UcfrrITqRXuZ63F8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Vc2IJP_vEww"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-12T10:40:49Z",
+                "channelId": "UCPzjGcGQeC9BckS6a18sJMg",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 그냥 틀어두면 겨울 분위기 완성",
+                "description": "playlist #겨울 #크리스마스.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Vc2IJP_vEww/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Vc2IJP_vEww/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Vc2IJP_vEww/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "기몽초 ɢɪᴍᴏɴɢᴄʜᴏ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-12T10:40:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ydnNoseaMKxrnhwBZP1z3Rn3qHE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JznlT2tWIXo"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-04T16:03:29Z",
+                "channelId": "UCmth4hMyizG-_W9jidBqs_A",
+                "title": "BIGBANG &#39;Still Life&#39; Lyrics (빅뱅 봄여름가을겨울 가사) (Color Coded Lyrics)",
+                "description": "All Rights Administered by YG Entertainment • Artist: BIGBANG • Song ♫: 봄여름가을겨울 (Still Life) • Album: 봄여름가을겨울 (Still ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JznlT2tWIXo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JznlT2tWIXo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JznlT2tWIXo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jaeguchi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-04T16:03:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "l3QWTU23A0kLmeaWdV7p5El2UEc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w0FgYGHHqls"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-25T09:30:20Z",
+                "channelId": "UCFCtZJTuJhE18k8IXwmXTYQ",
+                "title": "눈은 소복하고, 밥은 맛있고. 겨울 지리산에 집 짓고 사는 사람들의 소박한 하루｜한국기행｜#골라듄다큐",
+                "description": "이 영상은 2016년 2월 22일부터 2월 26일까지 방송된 ＜한국기행 - 겨울 지리산에 가면 1부~5부＞의 일부입니다. 가쁜 숨 몰아쉬며 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w0FgYGHHqls/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w0FgYGHHqls/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w0FgYGHHqls/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EBSDocumentary (EBS 다큐)",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-25T09:30:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "b6NGp3qTyAnZa4FO_e1hVOJMY-I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EBFMqdLAkYw"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-19T09:00:03Z",
+                "channelId": "UCk6bX-MZXdte_7kG8TbMkqg",
+                "title": "추운 겨울에만 가능하다는 얼음 트램폴린 ㅋㅋㅋ",
+                "description": "너무 춥지만 재미지다~! #Shorts #허팝 #얼음트램폴린 #트램폴린 #트랜폴린 #얼음 #추위 #눈 #겨울 #snow #heopop #trampoline ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EBFMqdLAkYw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EBFMqdLAkYw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EBFMqdLAkYw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "허팝Heopop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-19T09:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8S4S8zKLbEv3mLjmOvImj4MexUE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aDHqJDG-8gc"
+            },
+            "snippet": {
+                "publishedAt": "2025-12-04T09:00:02Z",
+                "channelId": "UC6EcdZPLwHRoJbFWl0LeDaw",
+                "title": "[Playlist] 청룡열차에 갇힌 사람이 만든 플레이리스트 l  설레는 겨울 감성 노래 모음･｡*",
+                "description": "겨울이 멜로의 계절임을 이제야 알았습니다... 듣고 싶은 아티스트, 플리 주제를 댓글로 남겨주세요   ✓수익 창출을 하지 않는 채널 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aDHqJDG-8gc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aDHqJDG-8gc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aDHqJDG-8gc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "피버TV - FEVER TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-12-04T09:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XD1VUWVFAoAT4Sio6-JJIS6j0gk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "X0jcFU8a7eE"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-04T05:00:32Z",
+                "channelId": "UCNIiH_4ArJNd_cDZApZ7AFg",
+                "title": "[최강야구 스핀오프 김성근의 겨울방학] 핫초코는 내가 살게, 돈은 너희가 내 | #shorts | TVINGㅣKim Seong-geun&#39;s Winter Vacation",
+                "description": "그 시절 감독님의 핫초코 광고 재연   44세 제자들의 핫쪼꼬 재롱은 못 참지~ 티빙 오리지널 [김성근의 겨울방학] 오직 TVING에서 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X0jcFU8a7eE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X0jcFU8a7eE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X0jcFU8a7eE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TVING",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-04T05:00:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7GTG4EqoXnwGQEOtgxOe-c4u3Pw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vx60M69mZSA"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-17T10:11:46Z",
+                "channelId": "UCcRTcy_GuofiJLPLMlVcGxw",
+                "title": "✔️옷 잘 입는 여자들이 본능적으로 입는! 올겨울 유행 컬러 2가지!!",
+                "description": "shorts #fashion #winter #겨울패션 #겨울코디 #여자코디 #옷잘입는법 #그레이코디 #레드코디 #유행컬러.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vx60M69mZSA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vx60M69mZSA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vx60M69mZSA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AliceFunk 앨리스펑크",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-17T10:11:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4TPcLuOsgEqc7ygPFhjR-v8-MFg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5sf2-aQcW2o"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-27T09:00:30Z",
+                "channelId": "UCDGZ9dKMKzUbOMZSpDDXoZw",
+                "title": "[ 204 ] 미리보는 겨울 제주도 꾸안꾸 여행 코디 4가지 추천 ❄️💕 #룩북 #스타일 #패션",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5sf2-aQcW2o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5sf2-aQcW2o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5sf2-aQcW2o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "예린짱",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-27T09:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VOQAnkLqu1yvOd-3iaphg4pHpIQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qYhkiH4RMsE"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-01T23:00:50Z",
+                "channelId": "UCPUeGC_AL-OnDQORKhRm6iA",
+                "title": "뽀로로 겨울아 놀자 ☃❄ | 뽀로로 겨울 놀이 동요 메들리 | 눈싸움은 즐거워 | 크리스마스파티 | 초코초코핫초코 | 어린이 크리스마스 | 뽀로로와노래해요",
+                "description": "뽀로로의 새로운 영상을 가장 빠르게 만나는 방법! 지금 바로 뽀롱뽀롱 뽀로로 공식 유튜브 채널 [구독]버튼을 눌러주세요. ☆뽀로로 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qYhkiH4RMsE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qYhkiH4RMsE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qYhkiH4RMsE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "뽀로로(Pororo)",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-01T23:00:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NeXwMfGaxh1PDQzW5cZRXECI_Bk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jz1qOilNdi4"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-28T03:00:37Z",
+                "channelId": "UC4yq3FWEWqMvFNFBsV3gbKQ",
+                "title": "션에게 겨울 러닝 착장을 묻다 #shorts",
+                "description": "심으뜸 #겨울러닝 #션.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jz1qOilNdi4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jz1qOilNdi4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jz1qOilNdi4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "힙으뜸",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-28T03:00:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dLkZtFi2ttOUjpy-sHNEbEp2M2A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "thDJIhYFf2k"
+            },
+            "snippet": {
+                "publishedAt": "2023-12-03T09:10:00Z",
+                "channelId": "UCQqEWSmdf0970sOmG4GIHbw",
+                "title": "겨울 러닝복장 입는 방법🩵🥶❄️",
+                "description": "겨울러닝복장 #러닝복 #러닝 최근 영하 3~6도 날씨에 이렇게 입었어요! 저는 주로 트랙에서 머물러서 뛰다보니 입고 벗는게 자유로운 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/thDJIhYFf2k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/thDJIhYFf2k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/thDJIhYFf2k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지니코치",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-12-03T09:10:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xi27CGS92gnmVXwCm2OGFzPfc2Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dZ8H6Jw5xoo"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-16T05:00:40Z",
+                "channelId": "UCNIiH_4ArJNd_cDZApZ7AFg",
+                "title": "[최강야구 스핀오프 김성근의 겨울방학] 아버지인지 할아버지인지 정확히 하라 | #shorts | TVINGㅣKim Seong-geun&#39;s Winter Vacation",
+                "description": "비디오 판독 결과 정근우 OUT! 할아버지 아니죠, 아버지 맞습니다    ‍♂️ 티빙 오리지널 [김성근의 겨울방학] 오직 TVING에서 티빙 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dZ8H6Jw5xoo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dZ8H6Jw5xoo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dZ8H6Jw5xoo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TVING",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-16T05:00:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "95gYwKZ5BE51e_r1DIo4_rWAHvc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FLGWNQX-XgE"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-24T12:07:01Z",
+                "channelId": "UCAQQfjGwBLlW9enkLTKL0ew",
+                "title": "이 무지치│비발디, &#39;사계&#39; 겨울  (A.Vivaldi, Winter from The Four Seasons Op.8) I Musici",
+                "description": "클래식은티예무 #TV예술무대 #이무지치 #MBCtvartshow 연주- 이 무지치(I Musici) ♪ 비발디, 사계 '조화와 영감' Op.8 겨울 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FLGWNQX-XgE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FLGWNQX-XgE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FLGWNQX-XgE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TV예술무대",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-24T12:07:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YAUhTHGIiUT8SgX8Kuqfm-oY7is",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2pLXPj76qzs"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-12T00:00:00Z",
+                "channelId": "UCmZ19AIj_wcpwRcqG7p9L8g",
+                "title": "이은하 - &#39;겨울 장미&#39;  [콘서트7080, 2006] | Lee Eun-ha -  &#39;Winter rose&#39;",
+                "description": "KBS 1TV 콘서트7080 60회 - 2006년 2월 11일 방송 이은하 - '겨울 장미' [콘서트7080, 2006] | Lee Eun-ha - 'Winter rose' #Again가요 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2pLXPj76qzs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2pLXPj76qzs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2pLXPj76qzs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Again 가요톱10 : KBS KPOP Classic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-12T00:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yxUlOwbXjA4uI5E1AIK03Al0qW8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bGkqwiFl6c4"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-24T03:31:37Z",
+                "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+                "title": "기상청이 예측한 올겨울 날씨…가장 큰 변수는 바다의 &#39;이것&#39; / SBS",
+                "description": "〈앵커〉 기상청이 올겨울 3개월간의 날씨 전망을 발표했습니다. 기온과 강수량은 평년과 비슷하지만 변동성이 크다고 합니다. 자세한 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bGkqwiFl6c4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bGkqwiFl6c4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bGkqwiFl6c4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SBS 뉴스",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-24T03:31:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pOcuOgZ-bixMdHYi2_3Q3WmhLaI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "C4OBdfXMI6s"
+            },
+            "snippet": {
+                "publishedAt": "2019-02-14T15:09:39Z",
+                "channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+                "title": "[풀버전] 정재일(Jung jae il)x박효신(Park hyo shin), 하얀 겨울이 떠오르는 &#39;겨울소리&#39;♪ 너의 노래는(Your Song) 4회",
+                "description": "별이 떨어지는 작은 창밖을 보다 잠들지 못한 밤 나를 달래보다 길었던 가을의 내겐 첫눈 같은 밤 뒤늦은 나만의 겨울이 온 거야 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C4OBdfXMI6s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C4OBdfXMI6s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C4OBdfXMI6s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JTBC Entertainment",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-02-14T15:09:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pob2wHw7FVZ-tTJRrXIOMQpRC3g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lXkUQ-ZZsOk"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-13T08:00:21Z",
+                "channelId": "UC-8xPSlb0xDYqSuIWcdcPAQ",
+                "title": "[안전 건강 특집] 공주님 가을 겨울 건강 연속 보기 😷 | 환절기 안건 건강  | 프린세스 공주 동화 | 어린이 안전교육★지니키즈",
+                "description": "감기 #독감 #체온계 #열 #주사 지니키즈 동요・동화 애니메이션을 만날 수 있는 방법! 지금 바로 [구독] 버튼을 눌러주세요! ♥구독♥ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lXkUQ-ZZsOk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lXkUQ-ZZsOk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lXkUQ-ZZsOk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지니키즈 Genikids (인기 동요・동화)",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-13T08:00:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cPcLuYJ2vBNCN2xiWSEy95qGhN0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DXuGfEbIrFo"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-20T09:00:49Z",
+                "channelId": "UCDGZ9dKMKzUbOMZSpDDXoZw",
+                "title": "[ 202 ] 미리보는 일본 여행 겨울 코디 5가지 ❄💕 #룩북 #스타일 #패션",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DXuGfEbIrFo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DXuGfEbIrFo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DXuGfEbIrFo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "예린짱",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-20T09:00:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uTzsb5VGv31f5MtGIehnFAm7YQs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Sk5WrUnp9Zk"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-10T01:00:24Z",
+                "channelId": "UC3WZlO2Zl8NE1yIUgtwUtQw",
+                "title": "사랑의콜센타 임영웅 [그겨울의 찻집] (ENG/JPN/CHI)",
+                "description": "임영웅 #LimYoungWoong 임영웅 웅튜브 구독♡좋아요♡알람설정 열심히 할게요/당신도 누를수 있도록 Lim Young Woong [I'm ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Sk5WrUnp9Zk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Sk5WrUnp9Zk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Sk5WrUnp9Zk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "임영웅",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-10T01:00:24Z"
+            }
+        }
+    ]
+}

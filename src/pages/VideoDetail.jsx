@@ -2,21 +2,44 @@ import { useQuery } from '@tanstack/react-query';
 import { useLocation, useNavigate } from 'react-router-dom';
 import Card from '../components/Card';
 import { Skeleton } from '@mui/material';
+import { useState, useEffect } from 'react';
 import { fetchYoutubeVideos } from '../api/youtube';
 
 export default function VideoDetail() {
     const navigate = useNavigate();
     const { state } = useLocation();
     // https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails,status&id=VtJ_2SbYoIM&key=AIzaSyC8t3lJJURohhFXjaA4dDmwfjPivbchDR8
-    const videoId = state.id;
+    // const videoId = state.id;
     const channel = state.snippet.channelTitle;
+    // 테스트 코드
+    const videoId = state.id.videoId;
+    //
+    // 윈도우 넓이
+    const [width, setWidth] = useState(window.innerWidth);
+    useEffect(() => {
+        const handleResize = () => {
+            setWidth(window.innerWidth);
+        };
+        window.addEventListener('resize', handleResize);
+
+        // cleanup
+        return () => {
+            window.removeEventListener('resize', handleResize);
+        };
+    }, []);
+    const isDesktop = width >= 1024; // lg
+
     const {
         isLoading,
         error,
         data: channelVideos = [],
     } = useQuery({
         queryKey: ['channelVideos', channel],
-        queryFn: async () => fetchYoutubeVideos(channel),
+        // queryFn: async () => fetchYoutubeVideos(channel),
+        // 테스트 코드
+        queryFn: async () => {
+            return await fetch('/data/videos-mock-page3.json').then((res) => res.json());
+        },
     });
     if (isLoading) {
         return (
@@ -56,12 +79,12 @@ export default function VideoDetail() {
     };
 
     return (
-        <section className='flex-1 flex flex-row px-30 gap-6 h-[calc(100dvh-64px)]'>
+        <section className='flex-1 flex flex-col lg:flex-row lg:px-4 gap-6 lg:h-[calc(100dvh-64px)]'>
             {/* 유투브 아이프레임 및 정보 */}
-            <div className='w-5/7'>
+            <div className='w-full lg:w-5/7'>
                 <iframe
                     width='100%'
-                    className='rounded-xl aspect-video'
+                    className='lg:rounded-xl aspect-video'
                     src={`https://www.youtube.com/embed/${videoId}?autoplay=1&mute=1`}
                     title={state.snippet.title}
                     frameBorder='0'
@@ -69,17 +92,34 @@ export default function VideoDetail() {
                     referrerPolicy='strict-origin-when-cross-origin'
                     allowFullScreen
                 ></iframe>
-                <p className='dark:text-white'>{state.snippet.title}</p>
-                <p className='dark:text-white'>{state.snippet.channelTitle}</p>
-                <div>
-                    <p className='dark:text-white'>{state.snippet.publishedAt}</p>
-                    <p className='dark:text-white'>{state.snippet.description}</p>
+                <p className='dark:text-white px-3 my-4 text-lg font-semibold'>{state.snippet.title}</p>
+                <p className='dark:text-white px-3 text-lg font-semibold'>{state.snippet.channelTitle}</p>
+                <div className='px-3 dark:bg-zinc-200/8 bg-zinc-400/30 p-4 m-4 rounded-xl'>
+                    <p className='dark:text-white text-xs mb-2 text-right'>{state.snippet.publishedAt}</p>
+                    <p className='dark:text-white text-sm'>{state.snippet.description}</p>
                 </div>
             </div>
             {/* 해당 채널 비디오 목록 */}
-            <div className='w-2/7 h-screen overflow-scroll overflow-x-hidden box-border'>
+            <div className='w-full lg:w-2/7 h-full lg:h-screen lg:overflow-scroll lg:overflow-x-hidden box-border'>
                 <ul className='flex flex-col w-full'>
-                    {channelVideos.map((item) => (
+                    {/* MOK 테스트 코드 */}
+                    {channelVideos.items.map((v, i) => (
+                        <li
+                            key={i}
+                            className='hover:bg-stone-100 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
+                            onClick={() => handleTest(v)}
+                        >
+                            <Card
+                                thumbnail={v.snippet.thumbnails}
+                                title={v.snippet.title}
+                                channelTitle={v.snippet.channelTitle}
+                                publishedAt={v.snippet.publishedAt}
+                                form={isDesktop ? 'row' : 'col'}
+                            />
+                        </li>
+                    ))}
+                    {/* API 코드 */}
+                    {/* {channelVideos.map((item) => (
                         <li
                             key={item.etag}
                             className='flex hover:bg-stone-100 dark:md:hover:bg-stone-100/10 cursor-pointer'
@@ -93,7 +133,7 @@ export default function VideoDetail() {
                                 form='row'
                             />
                         </li>
-                    ))}
+                    ))} */}
                 </ul>
             </div>
         </section>

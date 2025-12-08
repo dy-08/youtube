@@ -1,0 +1,1700 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "T-hKILualbrFIr6GRMOgv0gUK6A",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 976931,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NAtg_ZFNWlCbqLDsx6dkXqei2gE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VtJ_2SbYoIM"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-26T04:00:37Z",
+                "channelId": "UCyOUU8It-gqqk7cGTnFNSfg",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 주인장이 최애하는 감성힙합 플레이리스트 part.1 | 감성힙합/R&amp;B",
+                "description": "감성힙합 #노래모음 #플레이리스트 #힙합 #playlist #플레이리스트 #노래추천 #노래모음 E-mail : erica00j@naver.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VtJ_2SbYoIM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VtJ_2SbYoIM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VtJ_2SbYoIM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "유일리u_ely",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-26T04:00:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6OiJCLhRfxNFZBY_ToAgkkcWCy0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OnJAhgrDHUU"
+            },
+            "snippet": {
+                "publishedAt": "2025-12-04T10:00:45Z",
+                "channelId": "UCiVn-EPlb-YGAs0NENlIyDQ",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 겨울에 듣기 좋은 국내 감성힙합 플리 💿 | 릴러말즈, ASH ISLAND, TOIL, Gist, 빅나티 ···",
+                "description": "yuaaaaa.mp3 [Tracklist] 00:00 릴러말즈 - GONE (Feat. Paloalto) 03:44 ASH ISLAND - 1+1 06:54 Chan, Giwon - 끊었어? 09:39 BIG ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OnJAhgrDHUU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OnJAhgrDHUU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OnJAhgrDHUU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "yuaaaaa mp3",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-12-04T10:00:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eCSjy37URG1v7EbKf79c7Whwuk0",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCfGuIKX_qYB3YVTg_bhGBwg"
+            },
+            "snippet": {
+                "publishedAt": "2014-04-10T02:58:59Z",
+                "channelId": "UCfGuIKX_qYB3YVTg_bhGBwg",
+                "title": "HIPHOPPLAYA",
+                "description": "All about black music. since 2000.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_m65Nr5Pk74xy9itfgDNvfIZGiNPh59XvCuSiY_AHmy3A=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_m65Nr5Pk74xy9itfgDNvfIZGiNPh59XvCuSiY_AHmy3A=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_m65Nr5Pk74xy9itfgDNvfIZGiNPh59XvCuSiY_AHmy3A=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "HIPHOPPLAYA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-04-10T02:58:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NOEJMRW3asm-qx79wTWaMwLJINo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lZ3wJJlEHCY"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-07T09:37:22Z",
+                "channelId": "UCAFLHVP7O_AFTrwDy_MS9ng",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 느좋이 되..인스타 국내 감성힙합 플리",
+                "description": "UYong Wave [ 지친 하루, 유영하는 플레이리스트 채널 ] — [Tracklist] 00:00 넌 내 타입이지 02:26 작은 차 05:11 딱 여기까지 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lZ3wJJlEHCY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lZ3wJJlEHCY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lZ3wJJlEHCY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UYoung Wave",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-07T09:37:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nePIz8CrQD0dwY0ebmNJhwnewSc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4IMcmqu4mSI"
+            },
+            "snippet": {
+                "publishedAt": "2024-05-06T05:46:57Z",
+                "channelId": "UC4eth-_fKt2Wg79cQqV1a8Q",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 🔥 외힙에 환장하는 사람 들어와!  외국힙합 종결! 개쩌는 외힙모음 [70곡]  | Best Hip-Hop Mix",
+                "description": "외합 #힙합 #외국힙합 멜론(Melon) \"터닝포인트뮤직\" http://kko.to/8Pav35ID0 스포티파이(Spotify) \"터닝포인트뮤직\" ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4IMcmqu4mSI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4IMcmqu4mSI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4IMcmqu4mSI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "터닝포인트뮤직",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-05-06T05:46:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_NV5ExQluUZaQ_CV2r0XMSPa_9w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gIwlLBuJ6VM"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-23T02:00:53Z",
+                "channelId": "UCAFLHVP7O_AFTrwDy_MS9ng",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 릴스에서 들어본 느좋 플리 | 국내 감성힙합 💿",
+                "description": "UYong Wave [ 지친 하루, 유영하는 플레이리스트 채널 ] — [Tracklist] 00:00 네가 봤으면 좋겠어 02:50 어차피 우린 05:41 너의 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gIwlLBuJ6VM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gIwlLBuJ6VM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gIwlLBuJ6VM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UYoung Wave",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-23T02:00:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fqWtaAEgRWJ86yFPgBwLdmfVbQU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "v_pXrLYOfAI"
+            },
+            "snippet": {
+                "publishedAt": "2025-12-06T03:01:14Z",
+                "channelId": "UCMA3vZg15MuDE0H72VdicHA",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 • 이러면 좋을 만두 해 | 신나게 빡센 국힙",
+                "description": "인스타그램 : https://www.instagram.com/jin__see ♥ 좋아요와 구독, 댓글 사랑합니다♥ • 타임라인은 고정 댓글에 있습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v_pXrLYOfAI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v_pXrLYOfAI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v_pXrLYOfAI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JINSEE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-12-06T03:01:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CskfbdaaH2XhCBLnHx_ojTtQQ68",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "COZu8gCThJ4"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-11T09:18:12Z",
+                "channelId": "UCSUN7C7ASLG6lxNU3uGNHng",
+                "title": "ᴘʟᴀʏʟɪꜱᴛ 느좋 감성힙합 플리🎧 | 릴러말즈, 비오, 쿠기, 애쉬아일랜드, 로꼬…",
+                "description": "플레이리스트 #감성힙합 #플리추천 #힙합플리 #애쉬아일랜드 #릴러말즈 #로꼬 ⁍ 해당 영상은 수익 창출 목적이 없습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/COZu8gCThJ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/COZu8gCThJ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/COZu8gCThJ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "예오레오yeoreo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-11T09:18:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aTpXj5zJdJ1L_R8uFbRduoTB-eg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2fo_9usfaj8"
+            },
+            "snippet": {
+                "publishedAt": "2025-01-18T09:00:03Z",
+                "channelId": "UCJ9GFEhq9xCLeyIevUNEdNA",
+                "title": "9n년대생들이 사랑한 국힙 최고의 히트곡 플레이리스트 | 국내 힙합, R&amp;B | HIPHOP PLAYLIST",
+                "description": "댓글로 곡 추천 해주시면 종합해서 2탄도 만들어 보겠습니다 ! CONTACT : thenextscon@gmail.com ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2fo_9usfaj8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2fo_9usfaj8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2fo_9usfaj8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "the next SCON",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-01-18T09:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iYAyCbFugQIhO81rAU2vyx21DdQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CY3ZzFmCCd0"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-28T22:02:48Z",
+                "channelId": "UCdtTdLBYBjFdx23baTBDeQQ",
+                "title": "𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭 🔥지옥철에서 나 혼자 극락 가는 법 │ 마라맛&amp;외힙 노동요 플레이리스트",
+                "description": "오늘도 지하철에서 혼자 깨달음을 얻은 자의 비트 수행. ‍♂️   “PLAY” 누르는 순간, 여러분도 함께 극락행 playlist ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CY3ZzFmCCd0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CY3ZzFmCCd0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CY3ZzFmCCd0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "플리메이커",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-28T22:02:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zt8KDHhqjbpnNF9LVlekPb9sZAA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iOhGHCDKpcQ"
+            },
+            "snippet": {
+                "publishedAt": "2024-05-22T07:34:12Z",
+                "channelId": "UCsp8mno4MpF_ArHwRiwEd7w",
+                "title": "힙합클럽에서 나오면 완전 럭키비키잖아⭐️ 5월 힙합클럽 Hip Hop MixsetㅣDj 6ix9ine",
+                "description": "외힙 #힙합 #mix https://www.instagram.com/_940609/ Contact : france1994@naver.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iOhGHCDKpcQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iOhGHCDKpcQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iOhGHCDKpcQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dj 6ix9ine",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-05-22T07:34:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "56gtUI-U0fbd03zbDewKFOKGAwU",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLY_nA2zpkyOQ55qVmo9UKW6XItR_mHtMi"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-09T08:49:35Z",
+                "channelId": "UCOd2p52EwOLYqfCXqP0F81w",
+                "title": "𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭 당신의 90분을 책임질 감성힙합 모음 🎵🎶 I 빅나티, 토일, 릴러말즈, 스키니브라운, 애쉬아일랜드 🎧 2022 Korean Best Hip-Hop Songs",
+                "description": "playlist 당신의 90분을 책임질 감성힙합 모음 I 빅나티, 토일, 릴러말즈, 스키니브라운, 애쉬아일랜드 2022 Korean ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DOOjJKhAnko/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DOOjJKhAnko/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DOOjJKhAnko/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "K _힙합사랑한 자",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-09T08:49:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "f9X7mWnv6RIxhhgYrYfg-8WCpUc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QTxDGbq0_pY"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-19T22:30:05Z",
+                "channelId": "UCp6jlGtOcqiH0anc7vXYvUg",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 아침부터 텐션 미쳤다 - 오늘 하루 분위기 책임질 감성 힙합/R&amp;B 플리 🔥♥️",
+                "description": "Playlist 아침부터 텐션 미쳤다 - 오늘 하루 분위기 책임질 감성 힙합/R&B 플리 ♥️ #팝송추천 #팝송 #playlist #플레이 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QTxDGbq0_pY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QTxDGbq0_pY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QTxDGbq0_pY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Her Track",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-19T22:30:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tC8WQ-_kJLTLbDrUebhq8H4vi-E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lWBXTXPK4OI"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-23T11:01:20Z",
+                "channelId": "UCcB9Snv3wQHWVYy8wuR4yWw",
+                "title": "[𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 주인장이 최애하는 감성 국내힙합 🎧 | 토일, 릴러말즈, 애쉬 아일랜드, 서동현, 쿠기",
+                "description": "사진 출처 : 엠제이 본 영상은 수익을 창출하지 않습니다. 00:00 TOIL - 검정색하트 (Feat. leellamarz, BE′O) 03:55 릴러말즈 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lWBXTXPK4OI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lWBXTXPK4OI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lWBXTXPK4OI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "엠제이 MJ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-23T11:01:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Vl1DyIo7bvcBKuM5zZ03UFSaihk",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLXsb20IyomBdbEgN5LoWzo4WVk_jVOrJr"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-20T06:23:19Z",
+                "channelId": "UCNhhw7QinFGnE0IIjpIu3NQ",
+                "title": "🔥 조선힙합 플리 | Joseon Hip-Hop Playlist 🔥 from JoseonPlaylist",
+                "description": "강력한 808과 트랩 사운드로 가득한 조선힙합플리! 역사적인물과 조선플리 창작인물을 현대적 힙합으로 풀어낸 특별한 플레이리스트 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ghq9PSSRWQ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ghq9PSSRWQ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ghq9PSSRWQ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JoseonPlaylist",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-20T06:23:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mD5YvsxpqEn7V8-q3wHw4d0pNs0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "p2Yy6Kl1quA"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-30T07:00:51Z",
+                "channelId": "UCAFLHVP7O_AFTrwDy_MS9ng",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 첫 곡부터 걍 느좋.. 국내 감성힙합 플리 I R&amp;B",
+                "description": "UYong Wave [ 지친 하루, 유영하는 플레이리스트 채널 ✨ ] — [Tracklist] 00:00 시간 좀 내줘 02:23 어차피 우린 05:03 동그란 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p2Yy6Kl1quA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p2Yy6Kl1quA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p2Yy6Kl1quA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UYoung Wave",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-30T07:00:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BRkaSjqGV426MiV_3wtImJ-7Fro",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCva4xHp8PPtSzqhGeM3lq7Q"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-29T10:49:58Z",
+                "channelId": "UCva4xHp8PPtSzqhGeM3lq7Q",
+                "title": "릴숭어 lil mullet",
+                "description": "lilmulletxx@gmail.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/5ViA_NGPgKOCTPCFgNWU3J-i7THm7xyNGcT4PQ9ktc5FWMg1pWLYuSeHkfCFFOCLpX1WLuZ-nQ=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/5ViA_NGPgKOCTPCFgNWU3J-i7THm7xyNGcT4PQ9ktc5FWMg1pWLYuSeHkfCFFOCLpX1WLuZ-nQ=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/5ViA_NGPgKOCTPCFgNWU3J-i7THm7xyNGcT4PQ9ktc5FWMg1pWLYuSeHkfCFFOCLpX1WLuZ-nQ=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "릴숭어 lil mullet",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-08-29T10:49:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GLPHaTfvG_SH0I9ds7LtwC1Kq8o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PAUSvjdNqgE"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-14T03:00:17Z",
+                "channelId": "UCJ9GFEhq9xCLeyIevUNEdNA",
+                "title": "3만 기념 3시간 국힙명곡믹스 | 국내 힙합 명곡 모음, 국힙 명곡, hiphop mix 명곡 기념",
+                "description": "3만 감사합니다 여러분 4만에 4시간.. 은 고민좀 해봄   . CONTACT : thenextscon@gmail.com ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PAUSvjdNqgE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PAUSvjdNqgE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PAUSvjdNqgE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "the next SCON",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-14T03:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YgHvQFHmF2t3tVjJQQvph2nRfN0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QNx6118UlHw"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-14T09:45:21Z",
+                "channelId": "UC4eth-_fKt2Wg79cQqV1a8Q",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭🔥 이 비트 위에선 우리 엄마도 나를 못 이겨 🔥 | 도입부 장인이 만든 빡센 외힙 [44곡] HIPHOP MIX , CLUB",
+                "description": "0:00 0:00 Big Boss Vette - Make Em Mad 2:12 2:12 Megan Thee Stallion - Outta Town Freestyle 3:33 3:33 bbno$ - b to the b 5:37 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QNx6118UlHw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QNx6118UlHw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QNx6118UlHw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "터닝포인트뮤직",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-14T09:45:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rqe97pDzOCvBJUElGlPxzphv7q8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "g3NBYWvK1NE"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-29T08:18:11Z",
+                "channelId": "UC30e52QQtMebEZ8pcWQRGpg",
+                "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭]너는 무슨 헤어지자는 말을 비요뜨 먹을 때 하니, 릴러말즈 감성힙합 노래모음",
+                "description": "구독과 좋아요는 컨텐츠 제작에 큰 힘이 됩니다   contact : takeonemusic.business@gmail.com 해당 영상은 음원 수익을 창출하지 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g3NBYWvK1NE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g3NBYWvK1NE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g3NBYWvK1NE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TAKEONE MUSIC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-29T08:18:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NvKVvo85ZHKZpjYa3W7rPaJEhTQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rr8-0wsb2L4"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-13T07:00:55Z",
+                "channelId": "UCWTwVZOJBFBjDrIKGSqkrpA",
+                "title": "🎧 쇼미12 기대하면서 만든 역대 쇼미더머니 킬링 트랙 35곡 플레이리스트 믹스 Part 1ㅣKorean Hip Hop Mix",
+                "description": "쇼미더머니 노래모음ㅣ국힙 플레이리스트 ✔️ 제 채널의 영상들은 음악에 대한 저작권으로 인해 수익창출이 불가능합니다 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rr8-0wsb2L4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rr8-0wsb2L4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rr8-0wsb2L4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JINPLY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-13T07:00:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "G9C2XxRcA4aGwmxayYKsN4ptz9g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qT_0UBey5mM"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-22T11:41:50Z",
+                "channelId": "UCAFLHVP7O_AFTrwDy_MS9ng",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 느좋 국내 감성힙합 플리 💿 I 인스타 릴스 R&amp;B",
+                "description": "UYong Wave [ 지친 하루, 유영하는 플레이리스트 채널 ✨ ] — [Tracklist] 00:00 말할까 말까 03:53 네가 봤으면 좋겠어 06:52 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qT_0UBey5mM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qT_0UBey5mM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qT_0UBey5mM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UYoung Wave",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-22T11:41:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-K4rOjMDe4bYfA3Vtvbi3BwhVhU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7OQpMiEE638"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-18T07:00:06Z",
+                "channelId": "UCAFLHVP7O_AFTrwDy_MS9ng",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 인스타 느좋 플리,, 140분 국내 감성힙합 I R&amp;B",
+                "description": "UYong Wave [ 지친 하루, 유영하는 플레이리스트 채널 ✨ ] — [Tracklist] 00:00 작은 차 02:50 네가 봤으면 좋겠어 05:44 바라 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7OQpMiEE638/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7OQpMiEE638/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7OQpMiEE638/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UYoung Wave",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-18T07:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "79devkYjuJM71HT4LakxBfLR_pY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RqfPNo6rStU"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-19T09:10:27Z",
+                "channelId": "UCAFLHVP7O_AFTrwDy_MS9ng",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 겨울에 틀어 놓는 국내 감성힙합 💿 | 느좋 플리",
+                "description": "UYong Wave [ 지친 하루, 유영하는 플레이리스트 채널 ] — [Tracklist] 00:00 바라봐줘 02:59 눈치챘을까 05:36 널 기다리다 잠들었 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RqfPNo6rStU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RqfPNo6rStU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RqfPNo6rStU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UYoung Wave",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-19T09:10:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "M6ONC4jGh9x-tKj7wZYMEe3XY7U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Lb6ZNJzKlOg"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-15T03:21:25Z",
+                "channelId": "UCIdZzBY932Fj_ypy2EM_kIw",
+                "title": "[playlist] 넌 대체 뭐하는 여자길래",
+                "description": "플레이리스트 #playlist #릴러말즈 #토일 #감성힙합 #다이나믹듀오 키링판매처: https://marpple.shop/kr/plz_thinking.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lb6ZNJzKlOg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lb6ZNJzKlOg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lb6ZNJzKlOg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "아니어쩌라고",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-15T03:21:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5nocHFqOOAJt_2EZ_dRkDG6wvdA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6rNhTG0dsjg"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-13T00:00:16Z",
+                "channelId": "UCdtTdLBYBjFdx23baTBDeQQ",
+                "title": "𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭 🔥자 드가자~ 츄르 값 벌러ㅣ극락뽕 &amp; 외힙 노동요 플레이리스트",
+                "description": "안녕하세요, 플리메이커입니다. 사실 추석 명절에 맞춰 짜잔! 하고 공개하려 했는데... 좋은 건 못 참고 빨리 나눠 듣고 싶은 마음에( ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6rNhTG0dsjg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6rNhTG0dsjg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6rNhTG0dsjg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "플리메이커",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-13T00:00:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wxLepGZbW12mdxEYsulSdIeZJK8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s-kgJuHCCNk"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-04T04:30:29Z",
+                "channelId": "UCsp8mno4MpF_ArHwRiwEd7w",
+                "title": "힙합클럽 테토남 등장ㅋ🔥 6월 Hip Hop, Twerk  MixsetㅣDj 6ix9ine",
+                "description": "힙합 #힙합클럽 #mix https://www.instagram.com/_940609/ Contact : france1994@naver.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s-kgJuHCCNk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s-kgJuHCCNk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s-kgJuHCCNk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dj 6ix9ine",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-04T04:30:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZpHN-CFPWB-z1fvJmNuULME5poA",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLzI3tsFoO2JusxNDYPMthvLdttUT-7FWg"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-27T04:07:29Z",
+                "channelId": "UCMA3vZg15MuDE0H72VdicHA",
+                "title": "국내 신나고, 빡센 힙합",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kPfiMnmH7D8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kPfiMnmH7D8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kPfiMnmH7D8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JINSEE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-27T04:07:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dyFCxMPw6T1jmBPet1h4Be6qbaY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KbhLsaBCdps"
+            },
+            "snippet": {
+                "publishedAt": "2025-11-14T09:00:39Z",
+                "channelId": "UCkPB1b46f3JKymSy6aAfGoQ",
+                "title": "𝗽𝗹𝗮𝘆𝗹𝗶𝘀𝘁 금요일 퇴근 10분 전💫 외힙 플리💥| 노동요 힙합 music",
+                "description": "마지막 10분, 이미 내 머릿속은 퇴근중~ 상사는 모르겠고, 난 이미 엘베를 탔지✨ 노동요 아닌 퇴근요로 마무리하자—Let's clock out in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KbhLsaBCdps/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KbhLsaBCdps/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KbhLsaBCdps/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MoodSpacePalette",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-11-14T09:00:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "76Jy0d8WBRgxcP6P-9fU9VBmQQk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IlyAdyV1g1Y"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-09T03:00:31Z",
+                "channelId": "UCp6jlGtOcqiH0anc7vXYvUg",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 신나고 껄렁한데 시끄럽지 않은 힙합 플리 🎧 감성은 지키고 분위기는 올리는 힙합 플레이리스트",
+                "description": "Playlist 신나고 껄렁한데 시끄럽지 않은 힙합 플리 감성은 지키고 분위기는 올리는 힙합 플레이리스트 #팝송 #팝송추천 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IlyAdyV1g1Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IlyAdyV1g1Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IlyAdyV1g1Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Her Track",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-09T03:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sIbPuotwiz4AVgH7e4aBCoWdXZA",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLvHZW3Ca3CT3v3yel4yy7HWBKGBqNKiRI"
+            },
+            "snippet": {
+                "publishedAt": "2024-01-21T08:53:42Z",
+                "channelId": "UCYham5UOO2X1Ke_s-QpIRSQ",
+                "title": "감성힙합 플리 모음",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Be5O1PBPk2U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Be5O1PBPk2U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Be5O1PBPk2U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ineezu",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-01-21T08:53:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "U7S6qFQzMkSEU3_BWCao3ZApgPQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9_jZnSV8e4w"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-21T01:00:05Z",
+                "channelId": "UCmBqBxouLDy3Mfu4XzESuAA",
+                "title": "𝗣𝗟𝗔𝗬𝗟𝗜𝗦𝗧 노을빛 물든 가을, 알앤비와 함께 | 우디, dori, 빅나티, PL •••",
+                "description": "이미지 : 수진님의 \"빛나는 오늘\" ‍   작가소개 : https://www.instagram.com/sujini2ee/ - 다양한 풍경속에 따뜻한 빛을 담아 그 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9_jZnSV8e4w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9_jZnSV8e4w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9_jZnSV8e4w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "인디인디 In The Indie",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-21T01:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_cD5QcYiRW9nx8_HYeL9NJtkjNo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "egTef7DD5sc"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-04T06:30:18Z",
+                "channelId": "UC6ECJKRDyWWNO-cv-cn-Zgw",
+                "title": "🔥처음부터 심장이 바운스 바운스! 텐션 좀 끌어올려볼까? 레츠 고!🔥/ 💣힙합 외힙 믹스 플레이리스트💣 / [BEATBEAT] HIPHOP MIX PLAYLIST 45",
+                "description": "진짜 힙합이 필요할 땐 BEATBEAT! 최신 외힙 믹스, 빡센 트랩, 감성적인 R&B와 소울까지— 운동, 드라이브, 작업, 집중할 때 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/egTef7DD5sc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/egTef7DD5sc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/egTef7DD5sc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BEATBEAT",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-04T06:30:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aPII-0J_4ECKVB1IBzXAvzKMIQc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nzDDOE8qWG0"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-18T11:01:21Z",
+                "channelId": "UCAFLHVP7O_AFTrwDy_MS9ng",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 첫 곡부터 합격.. 120분 국내 감성힙합 💿 | R&amp;B 인스타 느좋 플리",
+                "description": "UYong Wave [ 지친 하루, 유영하는 플레이리스트 채널 ✨ ] — [Tracklist] 00:00 이상형 다시 써봤어 02:47 말할까 말까 06:51 넌 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nzDDOE8qWG0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nzDDOE8qWG0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nzDDOE8qWG0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UYoung Wave",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-18T11:01:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eFT6KJoe422LHov3a4O6ewLDseY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ilwjwj-R4so"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-29T10:55:59Z",
+                "channelId": "UCAFLHVP7O_AFTrwDy_MS9ng",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 은근 모르는 국내 감성힙합,,🖤 | 120분 느좋 플리",
+                "description": "UYong Wave [ 지친 하루, 유영하는 플레이리스트 채널 ] — [Tracklist] 00:00 나한테 한 거였지 02:21 네가 봤으면 좋겠어 05:13 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ilwjwj-R4so/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ilwjwj-R4so/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ilwjwj-R4so/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UYoung Wave",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-29T10:55:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "f1TpUhlnEx8U14l4KCLVzgjQb7Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LlTebKqh4lo"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-17T11:00:40Z",
+                "channelId": "UCuEOqtrA5dXHAjdRaD50JJA",
+                "title": "[Playlist] 느좋 감성 힙합 플리",
+                "description": "감성힙합 #프라이머리 #playlist #플레이리스트.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LlTebKqh4lo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LlTebKqh4lo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LlTebKqh4lo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "조우안심",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-17T11:00:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7m6WYlKxTyduCHAv8sy3XplMtUs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rxHFaOcGHmw"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-11T13:41:31Z",
+                "channelId": "UC-NCNZZfYTO5nE8gVsJsMaw",
+                "title": "𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩 | 히트곡을 찢어발랐다 질주본능!!🔥 역대급 트랩 리믹스 | Hit Trap Remix Explosion🔥",
+                "description": "역대급 인기 트랩 히트곡 Royal Trap 리믹스 플레이리스트! 강렬한 비트와 바운시한 랩 플로우로 오늘 하루도 질주해!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rxHFaOcGHmw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rxHFaOcGHmw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rxHFaOcGHmw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "melody_log7",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-11T13:41:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kGVZceKy-PRmh7lLRcBTG7RfhPE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Q7cU3MYFkjY"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-12T02:00:23Z",
+                "channelId": "UCAFLHVP7O_AFTrwDy_MS9ng",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 첫 곡부터 기절.. 국내 감성힙합 120분🍂 | R&amp;B 인스타 느좋 플리",
+                "description": "UYong Wave [ 지친 하루, 유영하는 플레이리스트 채널 ✨ ] — [Tracklist] 00:00 청춘이란 걸 몰랐어 03:14 나였음 좋겠어 06:04 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q7cU3MYFkjY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q7cU3MYFkjY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q7cU3MYFkjY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UYoung Wave",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-12T02:00:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "S_xav8YdQV02b_veubpdmMBcYT0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FUlmzYFs3dA"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-07T11:46:27Z",
+                "channelId": "UC-NCNZZfYTO5nE8gVsJsMaw",
+                "title": "𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩 | 이 조합 미쳤다 ⚡🪩 힙합에 EDM 섞었더니 텐션이 터짐 | Hype Trap x EDM Mix",
+                "description": "힙합에 EDM을 섞었더니 생긴 일… 드랍마다 온몸이 반응하는 텐션 폭발 믹셋 ⚡   운동할 때, 드라이브할 때, 펌핑할 때 무조건 추천.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FUlmzYFs3dA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FUlmzYFs3dA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FUlmzYFs3dA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "melody_log7",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-07T11:46:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J3czTvVf-Ji_WiBSazvmrNzFKP8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6nsp9yJd2IM"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-17T01:00:08Z",
+                "channelId": "UC_vD0EwkyqgtCg9XQEVEMbg",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 청량감 좋아🌀시끄럽지않게 분위기만 힙하게🍧 느좋 감성 플리(감성힙합 &amp; R&amp;B)",
+                "description": "Wellcome to Above All   구독 좋아요 Subscribe and like 매주 좋은 음악 올려 드릴게요   I'll upload great music every week ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6nsp9yJd2IM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6nsp9yJd2IM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6nsp9yJd2IM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "어보브올:𝑀𝑢𝑠𝑖𝑐 𝐴𝑏𝑜𝑣𝑒 𝐴𝑙𝑙",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-17T01:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pBnKiM1ObnJI11VAj6rkbYiVDN0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_H1RvnluTEU"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-27T07:00:36Z",
+                "channelId": "UCyBxejyr-XoiJbHiRxWlFlg",
+                "title": "[𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁] 겨울을 기다리며 듣는 플리 ❄🎧 · 감성힙합 R&amp;B 인디 플레이리스트",
+                "description": "playlist #플레이리스트 #감성힙합 #카페음악 #매장음악 ❚ YouTube Music ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_H1RvnluTEU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_H1RvnluTEU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_H1RvnluTEU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "URLIST",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-27T07:00:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "z_FsbZ1mHANRiWeSovvNgOEkKQc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "n3_EAnTpqmU"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-18T15:15:14Z",
+                "channelId": "UCKxknVfRWj3YKZuE_qiWZ4Q",
+                "title": "[Playlist] 젊음",
+                "description": "Playlist & Photograph by LEEPLAY Photo : My Home, South Korea (2023) Camera : Sony A7C My home ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n3_EAnTpqmU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n3_EAnTpqmU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n3_EAnTpqmU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "리플레이LEEPLAY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-18T15:15:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "trL8zb0Xtm8XrI18yNNC_zy0_CM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tHCEGL_n7G0"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-26T12:48:09Z",
+                "channelId": "UChDBJKpTvVzGZ0lgatif5fA",
+                "title": "808 베이스 ㅈ되는 힙합 playlist",
+                "description": "808 베이스 ㅈ되는 힙합 모음 hiphop playlist. hiphop mix, 힙합 믹스. 힙합 플레이리스트. 808베이스. 808 베이스 개 ㅈ되는 힙합 믹스.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tHCEGL_n7G0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tHCEGL_n7G0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tHCEGL_n7G0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HIPZONE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-26T12:48:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5FP24srFv9GXQR6VCDMK22OzkoU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "X2D6WBUal60"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-20T09:00:42Z",
+                "channelId": "UC6ECJKRDyWWNO-cv-cn-Zgw",
+                "title": "🔥한여름 힙합 폭격! / 외힙 믹스 플레이리스트 / [BEATBEAT] HIPHOP MIX VOL.38",
+                "description": "외힙, 힙합, 트랩, 붐뱁 찾고 계세요? 운동할 때, 드라이브할 때, 집중할 때 가장 많이 찾는 힙합 비트들을 한 곳에 담았습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X2D6WBUal60/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X2D6WBUal60/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X2D6WBUal60/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BEATBEAT",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-20T09:00:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1m4S2-rQblreemGZ0OHhY0HMffQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Wym_B7-zAJU"
+            },
+            "snippet": {
+                "publishedAt": "2024-05-25T13:24:45Z",
+                "channelId": "UC4eth-_fKt2Wg79cQqV1a8Q",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 도입부부터 씹어먹던 그 시절 외힙 00ś ~ 10ś 🔥 ㅣ00~10  HIP-POP MIX",
+                "description": "외국힙합 #외힙 #힙합 멜론(Melon) \"터닝포인트뮤직\" http://kko.to/8Pav35ID0 스포티파이(Spotify) \"터닝포인트뮤직\" ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wym_B7-zAJU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wym_B7-zAJU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wym_B7-zAJU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "터닝포인트뮤직",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-05-25T13:24:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xhVIBWKwxhfB90KlhD9FMFgMInk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3i7OdnhH7Hk"
+            },
+            "snippet": {
+                "publishedAt": "2025-09-25T09:00:05Z",
+                "channelId": "UCRJl6u1bXSZMgjK9UwyR9qg",
+                "title": "playlist | 드가자💥 그냥 박자에 내 영혼 던질게 | Trap &amp; Hip-Hop",
+                "description": "쌓인 스트레스? 비트에 던져서 다 갈아버리시죠. 오늘은 고민 말고, 영혼까지 탑승해버리기 Got stress piled up? Throw it in the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3i7OdnhH7Hk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3i7OdnhH7Hk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3i7OdnhH7Hk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BOOM BGM",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-09-25T09:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1mdZ7MVZ9D_h2gAAHgsfhqE_PQc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "j2R0ohNdo6M"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-05T01:37:09Z",
+                "channelId": "UClRxY7lEeNqc6oezxGSpkKA",
+                "title": "매장에서 틀면 손님들이 자꾸 물어보는 요즘 제일 핫한 팝송 모음 | 와 방금 그 노래 제목 뭐에요?",
+                "description": "매장에서 틀면 손님들이 자꾸 물어보는 요즘 제일 핫한 팝송 모음 | 와 방금 그 노래 제목 뭐에요? 요즘 제일 핫한 팝송만 골랐어요 틀기 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j2R0ohNdo6M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j2R0ohNdo6M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j2R0ohNdo6M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SISO Wave",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-05T01:37:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FSezugsU-CFcRb5fQUQngETVrCs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1Oqt-dmgwzg"
+            },
+            "snippet": {
+                "publishedAt": "2025-08-29T11:20:01Z",
+                "channelId": "UCAFLHVP7O_AFTrwDy_MS9ng",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 느좋 인스타 감성힙합 플리",
+                "description": "UYong Wave [ 지친 하루, 유영하는 플레이리스트 채널 ✨ ] — [Tracklist] 0:00 그때 나는 2:33 비워내 4:14 파도 속 물고기 7:22 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1Oqt-dmgwzg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1Oqt-dmgwzg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1Oqt-dmgwzg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UYoung Wave",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-08-29T11:20:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bQaUrJ6sy-ie9VB1RXYuloHU1gM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "huNjVka_YBA"
+            },
+            "snippet": {
+                "publishedAt": "2025-10-20T02:45:04Z",
+                "channelId": "UC3OHMl0N5QHVWVQicKKS1iA",
+                "title": "{Playlist} 여기, 식당에서 골반이 안 멈추는 힙합을 틀어주는 요리사가 있습니다. | HIP HOP playlist",
+                "description": "Broadplay Insta https://www.instagram.com/broadpast_official/ MIXSET DJ WZU https://www.instagram.com/wzuontheearth/ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/huNjVka_YBA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/huNjVka_YBA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/huNjVka_YBA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "브로드플레이",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-10-20T02:45:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VUK-Rn40XkimoSoiMy1xsNyvPIs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "obZCQT0VTGI"
+            },
+            "snippet": {
+                "publishedAt": "2024-06-17T07:00:22Z",
+                "channelId": "UCWTwVZOJBFBjDrIKGSqkrpA",
+                "title": "[𝗣𝗟𝗔𝗬𝗟𝗜𝗦𝗧] 다듀는 못참지🔥ㅣ다이나믹 듀오 킬링 트랙 믹스ㅣKorean Hip Hop Artist &quot;Dynamic Duo&#39; Best Songs Mix",
+                "description": "[PLAYLIST] 다이나믹 듀오 킬링 트랙 믹스 ✔️ 제 채널의 영상들은 음악에 대한 저작권으로 인해 수익창출이 불가능합니다 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/obZCQT0VTGI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/obZCQT0VTGI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/obZCQT0VTGI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JINPLY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-06-17T07:00:22Z"
+            }
+        }
+    ]
+}

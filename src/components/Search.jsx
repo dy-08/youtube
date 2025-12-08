@@ -21,13 +21,13 @@ export default function Search() {
     return (
         <form onSubmit={handleSubmit} className='flex items-center'>
             <input
-                className='dark:text-white w-xl h-8 rounded-l-full border border-neutral-300 px-3'
+                className='dark:text-white lg:w-xl h-8 rounded-l-full border border-neutral-300 px-3'
                 type='text'
                 value={text}
                 onChange={handleChange}
             />
             <button
-                className='w-16 h-8 rounded-r-full bg-neutral-200 text-center text-sm border-b border-r border-t border-neutral-300 cursor-pointer'
+                className='dark:dark:bg-zinc-800 w-16 h-8 rounded-r-full bg-neutral-200 text-center text-sm border-b border-r border-t border-neutral-300 cursor-pointer'
                 type='submit'
             >
                 {!darkMode && <IoSearchOutline className='text-xl m-auto' />}

@@ -7,11 +7,11 @@ export default function Header() {
     const handleClick = () => {};
     return (
         <header className='dark:bg-zinc-800 w-full h-16 flex justify-between items-center px-8 bg-white'>
-            <div className='flex items-center gap-0.3 cursor-pointer'>
+            <div className='flex flex-col relative top-[-4px] lg:static lg:flex-row items-center gap-0.3 cursor-pointer'>
                 <div className='w-9 overflow-hidden'>
                     <img className='w-full h-full' src='/youtube.svg' alt='유투브 로고' onClick={handleClick} />
                 </div>
-                <p className='dark:text-white text-2xl tracking-tighter font-bold'>Youtube</p>
+                <p className='dark:text-white my-[-10px] lg:my-[0px] lg:text-2xl tracking-tighter font-bold'>Youtube</p>
             </div>
             <Search />
             <div className='cursor-pointer' onClick={toggleDarkMode}>
