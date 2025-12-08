@@ -1,4 +1,5 @@
-const API_KEY = 'AIzaSyC8t3lJJURohhFXjaA4dDmwfjPivbchDR8';
+// const API_KEY = 'AIzaSyC8t3lJJURohhFXjaA4dDmwfjPivbchDR8';
+const API_KEY = 'AIzaSyBlQ4zpUqnIzLEc3a9q2g8qeve9YhBJMQQ';
 
 const isEmbeddable = async (videoIds) => {
     const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet,status&id=${videoIds.join(

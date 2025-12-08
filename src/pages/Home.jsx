@@ -43,7 +43,7 @@ export default function Home() {
             {videos.map((item) => (
                 <li
                     key={item.videoId}
-                    className='w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out hover:bg-stone-100 cursor-pointer'
+                    className='hover:bg-stone-100 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
                     onClick={() => handleClick(item)}
                 >
                     <Card

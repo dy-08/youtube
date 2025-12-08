@@ -69,18 +69,22 @@ export default function VideoDetail() {
                     referrerPolicy='strict-origin-when-cross-origin'
                     allowFullScreen
                 ></iframe>
-                <p>{state.snippet.title}</p>
-                <p>{state.snippet.channelTitle}</p>
+                <p className='dark:text-white'>{state.snippet.title}</p>
+                <p className='dark:text-white'>{state.snippet.channelTitle}</p>
                 <div>
-                    <p>{state.snippet.publishedAt}</p>
-                    <p>{state.snippet.description}</p>
+                    <p className='dark:text-white'>{state.snippet.publishedAt}</p>
+                    <p className='dark:text-white'>{state.snippet.description}</p>
                 </div>
             </div>
             {/* 해당 채널 비디오 목록 */}
             <div className='w-2/7 h-screen overflow-scroll overflow-x-hidden box-border'>
                 <ul className='flex flex-col w-full'>
                     {channelVideos.map((item) => (
-                        <li key={item.etag} className='flex' onClick={() => handleClick(item)}>
+                        <li
+                            key={item.etag}
+                            className='flex hover:bg-stone-100 dark:md:hover:bg-stone-100/10 cursor-pointer'
+                            onClick={() => handleClick(item)}
+                        >
                             <Card
                                 thumbnail={item.snippet.thumbnails}
                                 title={item.snippet.title}

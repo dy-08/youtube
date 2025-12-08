@@ -44,7 +44,7 @@ export default function Videos() {
             {selectedVideo.map((item) => (
                 <li
                     key={item.etag}
-                    className='w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out hover:bg-stone-100'
+                    className='hover:bg-stone-100 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out'
                     onClick={() => handleClick(item)}
                 >
                     <Card
