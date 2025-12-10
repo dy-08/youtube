@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { IoSearchOutline } from 'react-icons/io5';
 import { useDarkMode } from '../context/DarkModeContext';
 
-export default function Search() {
+export default function Search({ layout }) {
     const [text, setText] = useState('');
     const navigate = useNavigate();
     const handleChange = (e) => {
@@ -17,11 +17,12 @@ export default function Search() {
     };
 
     const { darkMode } = useDarkMode();
-
+    const form = layout === 'mobile' ? 'dark:bg-zinc-800 bg-white w-full mr-1' : '';
+    const input = layout === 'mobile' ? 'w-[220px]' : 'min-w-sm';
     return (
-        <form onSubmit={handleSubmit} className='flex items-center'>
+        <form onSubmit={handleSubmit} className={`w-full flex ${form} items-center`}>
             <input
-                className='dark:text-white lg:w-xl h-8 rounded-l-full border border-neutral-300 px-3'
+                className={`${input} dark:text-white lg:w-xl h-8 rounded-l-full border border-neutral-300 px-3`}
                 type='text'
                 value={text}
                 onChange={handleChange}

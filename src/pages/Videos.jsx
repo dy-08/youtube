@@ -1,6 +1,6 @@
 import { useQuery } from '@tanstack/react-query';
 import { useNavigate, useParams } from 'react-router-dom';
-import Card from '../components/Card';
+import VideoCard from '../components/VideoCard';
 import { Skeleton } from '@mui/material';
 import { fetchYoutubeVideos } from '../api/youtube';
 
@@ -57,12 +57,12 @@ export default function Videos() {
                     className='hover:bg-stone-100 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
                     onClick={() => handleTest(v)}
                 >
-                    <Card
+                    <VideoCard
                         thumbnail={v.snippet.thumbnails}
                         title={v.snippet.title}
                         channelTitle={v.snippet.channelId}
                         publishedAt={v.snippet.publishedAt}
-                        form='col'
+                        layout='col'
                     />
                 </li>
             ))}

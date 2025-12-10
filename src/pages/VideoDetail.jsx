@@ -1,9 +1,9 @@
 import { useQuery } from '@tanstack/react-query';
 import { useLocation, useNavigate } from 'react-router-dom';
-import Card from '../components/Card';
+import VideoSideCard from '../components/VideoSideCard';
 import { Skeleton } from '@mui/material';
-import { useState, useEffect } from 'react';
 import { fetchYoutubeVideos } from '../api/youtube';
+import { useWidth } from '../context/WindowWidthContext';
 
 export default function VideoDetail() {
     const navigate = useNavigate();
@@ -13,21 +13,20 @@ export default function VideoDetail() {
     const channel = state.snippet.channelTitle;
     // 테스트 코드
     const videoId = state.id.videoId;
-    //
-    // 윈도우 넓이
-    const [width, setWidth] = useState(window.innerWidth);
-    useEffect(() => {
-        const handleResize = () => {
-            setWidth(window.innerWidth);
-        };
-        window.addEventListener('resize', handleResize);
 
-        // cleanup
-        return () => {
-            window.removeEventListener('resize', handleResize);
-        };
-    }, []);
-    const isDesktop = width >= 1024; // lg
+    /**
+     * 사용자 화면(뷰포트) 크기에 따라 카드 레이아웃 형태('row' | 'col')를 결정
+     * - Mobile / Tablet 구간에서는 세로 배치인 'col'을 반환
+     * - Desktop 구간에서는 가로 배치인 'row'를 반환
+     */
+    const { isMobile, isTablet, isDesktop } = useWidth();
+    const getResponsiveForm = (mobile, tablet, desktop) => {
+        if (desktop) return 'row';
+        if (tablet) return 'col';
+        if (mobile) return 'col';
+
+        return 'col';
+    };
 
     const {
         isLoading,
@@ -101,7 +100,7 @@ export default function VideoDetail() {
             </div>
             {/* 해당 채널 비디오 목록 */}
             <div className='w-full lg:w-2/7 h-full lg:h-screen lg:overflow-scroll lg:overflow-x-hidden box-border'>
-                <ul className='flex flex-col w-full'>
+                <ul className='grid lg:grid-cols-1 sm:grid-cols-2 md:grid-cols-3 grid-cols-1 w-full'>
                     {/* MOK 테스트 코드 */}
                     {channelVideos.items.map((v, i) => (
                         <li
@@ -109,12 +108,12 @@ export default function VideoDetail() {
                             className='hover:bg-stone-100 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
                             onClick={() => handleTest(v)}
                         >
-                            <Card
+                            <VideoSideCard
                                 thumbnail={v.snippet.thumbnails}
                                 title={v.snippet.title}
                                 channelTitle={v.snippet.channelTitle}
                                 publishedAt={v.snippet.publishedAt}
-                                form={isDesktop ? 'row' : 'col'}
+                                layout={getResponsiveForm(isMobile, isTablet, isDesktop)}
                             />
                         </li>
                     ))}

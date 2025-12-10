@@ -1,5 +1,5 @@
 import { useQuery } from '@tanstack/react-query';
-import Card from '../components/Card';
+import VideoCard from '../components/VideoCard';
 import { Skeleton } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import { fetchYoutubeVideos } from '../api/youtube';
@@ -46,22 +46,21 @@ export default function Home() {
         const channelId = video.snippet.channelId;
         navigate(`/videos/videoDetail/${channelId}`, { state: video });
     };
-
     return (
         <ul className='w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 place-items-center'>
             {/* MOK 테스트 코드 */}
             {videos.items.map((v, i) => (
                 <li
                     key={i}
-                    className='hover:bg-stone-100 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
+                    className='hover:bg-stone-100 px-2 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
                     onClick={() => handleTest(v)}
                 >
-                    <Card
+                    <VideoCard
                         thumbnail={v.snippet.thumbnails}
                         title={v.snippet.title}
                         channelTitle={v.snippet.channelId}
                         publishedAt={v.snippet.publishedAt}
-                        form='col'
+                        layout='col'
                     />
                 </li>
             ))}
@@ -84,3 +83,5 @@ export default function Home() {
         </ul>
     );
 }
+
+// 헬퍼함수

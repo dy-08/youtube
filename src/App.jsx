@@ -7,6 +7,7 @@ import VideoDetail from './pages/VideoDetail';
 import Short from './pages/Short';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import DarkModeProvider from './context/DarkModeContext';
+import WindowWidthProvider from './context/WindowWidthContext';
 
 const router = createBrowserRouter([
     {
@@ -26,9 +27,11 @@ const queryClient = new QueryClient();
 export default function App() {
     return (
         <DarkModeProvider>
-            <QueryClientProvider client={queryClient}>
-                <RouterProvider router={router} />
-            </QueryClientProvider>
+            <WindowWidthProvider>
+                <QueryClientProvider client={queryClient}>
+                    <RouterProvider router={router} />
+                </QueryClientProvider>
+            </WindowWidthProvider>
         </DarkModeProvider>
     );
 }
