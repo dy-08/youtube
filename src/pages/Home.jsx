@@ -12,11 +12,11 @@ export default function Home() {
         data: videos,
     } = useQuery({
         queryKey: ['videos', '힙합플리'],
-        // queryFn: async () => fetchYoutubeVideos('힙합플리'),
+        queryFn: async () => fetchYoutubeVideos('힙합플리'),
         // 테스트 코드
-        queryFn: async () => {
-            return await fetch('/data/videos-mock-page1.json').then((res) => res.json());
-        },
+        // queryFn: async () => {
+        //     return await fetch('/data/videos-mock-page1.json').then((res) => res.json());
+        // },
     });
     if (isLoading) {
         return (
@@ -42,14 +42,14 @@ export default function Home() {
         navigate(`/videos/videoDetail/${channelId}`, { state: item });
     };
     // 테스트 코드
-    const handleTest = (video) => {
-        const channelId = video.snippet.channelId;
-        navigate(`/videos/videoDetail/${channelId}`, { state: video });
-    };
+    // const handleTest = (video) => {
+    //     const channelId = video.snippet.channelId;
+    //     navigate(`/videos/videoDetail/${channelId}`, { state: video });
+    // };
     return (
         <ul className='w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 place-items-center'>
             {/* MOK 테스트 코드 */}
-            {videos.items.map((v, i) => (
+            {/* {videos.items.map((v, i) => (
                 <li
                     key={i}
                     className='hover:bg-stone-100 px-2 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
@@ -63,23 +63,23 @@ export default function Home() {
                         layout='col'
                     />
                 </li>
-            ))}
+            ))} */}
             {/* API 코드 */}
-            {/* {videos.map((item) => (
+            {videos.map((item) => (
                 <li
                     key={item.videoId}
                     className='hover:bg-stone-100 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
                     onClick={() => handleClick(item)}
                 >
-                    <Card
+                    <VideoCard
                         thumbnail={item.snippet.thumbnails}
                         title={item.snippet.title}
                         channelTitle={item.snippet.channelTitle}
                         publishedAt={item.snippet.publishedAt}
-                        form='col'
+                        layout='col'
                     />
                 </li>
-            ))} */}
+            ))}
         </ul>
     );
 }

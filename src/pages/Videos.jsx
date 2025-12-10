@@ -13,11 +13,11 @@ export default function Videos() {
         data: selectedVideo,
     } = useQuery({
         queryKey: ['keyword', keyword],
-        // queryFn: async () => fetchYoutubeVideos(keyword),
+        queryFn: async () => fetchYoutubeVideos(keyword),
         // 테스트 코드
-        queryFn: async () => {
-            return await fetch('/data/videos-mock-page2.json').then((res) => res.json());
-        },
+        // queryFn: async () => {
+        //     return await fetch('/data/videos-mock-page2.json').then((res) => res.json());
+        // },
     });
     if (isLoading) {
         return (
@@ -43,15 +43,15 @@ export default function Videos() {
         navigate(`/videos/videoDetail/${channelId}`, { state: item });
     };
     // 테스트 코드
-    const handleTest = (video) => {
-        const channelId = video.snippet.channelId;
-        navigate(`/videos/videoDetail/${channelId}`, { state: video });
-    };
+    // const handleTest = (video) => {
+    //     const channelId = video.snippet.channelId;
+    //     navigate(`/videos/videoDetail/${channelId}`, { state: video });
+    // };
 
     return (
         <ul className='w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 place-items-center'>
             {/* MOK 테스트 코드 */}
-            {selectedVideo.items.map((v, i) => (
+            {/* {selectedVideo.items.map((v, i) => (
                 <li
                     key={i}
                     className='hover:bg-stone-100 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
@@ -65,23 +65,23 @@ export default function Videos() {
                         layout='col'
                     />
                 </li>
-            ))}
+            ))} */}
             {/* API 코드 */}
-            {/* {selectedVideo.map((item) => (
+            {selectedVideo.map((item) => (
                 <li
                     key={item.etag}
-                    className='hover:bg-stone-100 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out'
+                    className='hover:bg-stone-100 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
                     onClick={() => handleClick(item)}
                 >
-                    <Card
+                    <VideoCard
                         thumbnail={item.snippet.thumbnails}
                         title={item.snippet.title}
                         channelTitle={item.snippet.channelTitle}
                         publishedAt={item.snippet.publishedAt}
-                        form='col'
+                        layout='col'
                     />
                 </li>
-            ))} */}
+            ))}
         </ul>
     );
 }

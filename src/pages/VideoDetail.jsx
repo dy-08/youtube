@@ -9,10 +9,10 @@ export default function VideoDetail() {
     const navigate = useNavigate();
     const { state } = useLocation();
     // https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails,status&id=VtJ_2SbYoIM&key=AIzaSyC8t3lJJURohhFXjaA4dDmwfjPivbchDR8
-    // const videoId = state.id;
+    const videoId = state.id;
     const channel = state.snippet.channelTitle;
     // 테스트 코드
-    const videoId = state.id.videoId;
+    // const videoId = state.id.videoId;
 
     /**
      * 사용자 화면(뷰포트) 크기에 따라 카드 레이아웃 형태('row' | 'col')를 결정
@@ -34,11 +34,11 @@ export default function VideoDetail() {
         data: channelVideos = [],
     } = useQuery({
         queryKey: ['channelVideos', channel],
-        // queryFn: async () => fetchYoutubeVideos(channel),
+        queryFn: async () => fetchYoutubeVideos(channel),
         // 테스트 코드
-        queryFn: async () => {
-            return await fetch('/data/videos-mock-page3.json').then((res) => res.json());
-        },
+        // queryFn: async () => {
+        //     return await fetch('/data/videos-mock-page3.json').then((res) => res.json());
+        // },
     });
     if (isLoading) {
         return (
@@ -102,7 +102,7 @@ export default function VideoDetail() {
             <div className='w-full lg:w-2/7 h-full lg:h-screen lg:overflow-scroll lg:overflow-x-hidden box-border'>
                 <ul className='grid lg:grid-cols-1 sm:grid-cols-2 md:grid-cols-3 grid-cols-1 w-full'>
                     {/* MOK 테스트 코드 */}
-                    {channelVideos.items.map((v, i) => (
+                    {/* {channelVideos.items.map((v, i) => (
                         <li
                             key={i}
                             className='hover:bg-stone-100 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
@@ -116,23 +116,23 @@ export default function VideoDetail() {
                                 layout={getResponsiveForm(isMobile, isTablet, isDesktop)}
                             />
                         </li>
-                    ))}
+                    ))} */}
                     {/* API 코드 */}
-                    {/* {channelVideos.map((item) => (
+                    {channelVideos.map((item) => (
                         <li
                             key={item.etag}
-                            className='flex hover:bg-stone-100 dark:md:hover:bg-stone-100/10 cursor-pointer'
+                            className='hover:bg-stone-100 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
                             onClick={() => handleClick(item)}
                         >
-                            <Card
+                            <VideoSideCard
                                 thumbnail={item.snippet.thumbnails}
                                 title={item.snippet.title}
                                 channelTitle={item.snippet.channelTitle}
                                 publishedAt={item.snippet.publishedAt}
-                                form='row'
+                                layout={getResponsiveForm(isMobile, isTablet, isDesktop)}
                             />
                         </li>
-                    ))} */}
+                    ))}
                 </ul>
             </div>
         </section>
