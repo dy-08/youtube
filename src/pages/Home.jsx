@@ -20,11 +20,11 @@ export default function Home() {
   });
   if (isLoading) {
     return (
-      <ul className='w-full grid grid-cols-3 gap-2 place-items-center'>
+      <ul className='w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 place-items-center'>
         {Array.from({ length: 25 }).map((_, i) => (
           <li
             key={i}
-            className='w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out hover:bg-stone-100'
+            className='hover:bg-stone-800/10 dark:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
           >
             <Skeleton
               animation='wave'

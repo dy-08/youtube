@@ -42,9 +42,9 @@ export default function VideoDetail() {
   });
   if (isLoading) {
     return (
-      <section className='flex-1 flex flex-row px-30 gap-6 h-[calc(100dvh-64px)]'>
-        <div className='w-5/7'>
-          <div className='rounded-xl aspect-video overflow-hidden'>
+      <section className='flex-1 flex flex-col lg:flex-row lg:px-4 gap-6 lg:h-[calc(100dvh-64px)]'>
+        <div className='w-full lg:w-5/7'>
+          <div className='lg:rounded-xl aspect-video'>
             <Skeleton
               animation='wave'
               variant='rectangular'
@@ -77,10 +77,13 @@ export default function VideoDetail() {
             sx={{ fontSize: '1rem' }}
           />
         </div>
-        <div className='w-2/7 h-screen overflow-scroll overflow-x-hidden box-border'>
-          <ul className='flex flex-col w-full box-border space-y-4'>
+        <div className='w-full lg:w-2/7 h-full lg:h-screen lg:overflow-scroll lg:overflow-x-hidden box-border'>
+          <ul className='grid lg:grid-cols-1 sm:grid-cols-2 md:grid-cols-3 grid-cols-1 w-full'>
             {Array.from({ length: 25 }).map((_, i) => (
-              <li key={i} className='flex flex-row gap-2'>
+              <li
+                key={i}
+                className='hover:bg-stone-800/10 dark:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
+              >
                 <div className='w-2/5 h-[94px]'>
                   <Skeleton
                     animation='wave'
