@@ -5,51 +5,71 @@ import { useNavigate } from 'react-router-dom';
 import { fetchYoutubeVideos } from '../api/youtube';
 
 export default function Home() {
-    const navigate = useNavigate();
-    const {
-        isLoading,
-        error,
-        data: videos,
-    } = useQuery({
-        queryKey: ['videos', '힙합플리'],
-        queryFn: async () => fetchYoutubeVideos('힙합플리'),
-        // 테스트 코드
-        // queryFn: async () => {
-        //     return await fetch('/data/videos-mock-page1.json').then((res) => res.json());
-        // },
-    });
-    if (isLoading) {
-        return (
-            <ul className='w-full grid grid-cols-3 gap-2 place-items-center'>
-                {Array.from({ length: 25 }).map((_, i) => (
-                    <li
-                        key={i}
-                        className='w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out hover:bg-stone-100'
-                    >
-                        <Skeleton animation='wave' variant='rectangular' width={'100%'} height={292} />
-                        <Skeleton animation='wave' variant='text' width={'90%'} sx={{ fontSize: '1rem' }} />
-                        <Skeleton animation='wave' variant='text' width={'20%'} sx={{ fontSize: '1rem' }} />
-                        <Skeleton animation='wave' variant='text' width={'30%'} sx={{ fontSize: '1rem' }} />
-                    </li>
-                ))}
-            </ul>
-        );
-    }
-
-    if (error) return <p>{error.message}</p>;
-    const handleClick = (item) => {
-        const channelId = item.snippet.channelId;
-        navigate(`/videos/videoDetail/${channelId}`, { state: item });
-    };
+  const navigate = useNavigate();
+  const {
+    isLoading,
+    error,
+    data: videos,
+  } = useQuery({
+    queryKey: ['videos', '힙합플리'],
+    queryFn: async () => fetchYoutubeVideos('힙합플리'),
     // 테스트 코드
-    // const handleTest = (video) => {
-    //     const channelId = video.snippet.channelId;
-    //     navigate(`/videos/videoDetail/${channelId}`, { state: video });
-    // };
+    // queryFn: async () => {
+    //     return await fetch('/data/videos-mock-page1.json').then((res) => res.json());
+    // },
+  });
+  if (isLoading) {
     return (
-        <ul className='w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 place-items-center'>
-            {/* MOK 테스트 코드 */}
-            {/* {videos.items.map((v, i) => (
+      <ul className='w-full grid grid-cols-3 gap-2 place-items-center'>
+        {Array.from({ length: 25 }).map((_, i) => (
+          <li
+            key={i}
+            className='w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out hover:bg-stone-100'
+          >
+            <Skeleton
+              animation='wave'
+              variant='rectangular'
+              width={'100%'}
+              height={292}
+            />
+            <Skeleton
+              animation='wave'
+              variant='text'
+              width={'90%'}
+              sx={{ fontSize: '1rem' }}
+            />
+            <Skeleton
+              animation='wave'
+              variant='text'
+              width={'20%'}
+              sx={{ fontSize: '1rem' }}
+            />
+            <Skeleton
+              animation='wave'
+              variant='text'
+              width={'30%'}
+              sx={{ fontSize: '1rem' }}
+            />
+          </li>
+        ))}
+      </ul>
+    );
+  }
+
+  if (error) return <p>{error.message}</p>;
+  const handleClick = (item) => {
+    const channelId = item.snippet.channelId;
+    navigate(`/videos/videoDetail/${channelId}`, { state: item });
+  };
+  // 테스트 코드
+  // const handleTest = (video) => {
+  //     const channelId = video.snippet.channelId;
+  //     navigate(`/videos/videoDetail/${channelId}`, { state: video });
+  // };
+  return (
+    <ul className='w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 place-items-center'>
+      {/* MOK 테스트 코드 */}
+      {/* {videos.items.map((v, i) => (
                 <li
                     key={i}
                     className='hover:bg-stone-100 px-2 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
@@ -64,24 +84,22 @@ export default function Home() {
                     />
                 </li>
             ))} */}
-            {/* API 코드 */}
-            {videos.map((item) => (
-                <li
-                    key={item.videoId}
-                    className='hover:bg-stone-100 dark:md:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
-                    onClick={() => handleClick(item)}
-                >
-                    <VideoCard
-                        thumbnail={item.snippet.thumbnails}
-                        title={item.snippet.title}
-                        channelTitle={item.snippet.channelTitle}
-                        publishedAt={item.snippet.publishedAt}
-                        layout='col'
-                    />
-                </li>
-            ))}
-        </ul>
-    );
+      {/* API 코드 */}
+      {videos.map((item) => (
+        <li
+          key={item.videoId}
+          className='hover:bg-stone-800/10 dark:hover:bg-stone-100/10 w-full h-full overflow-hidden p-3 rounded-xl transition-all duration-300 ease-in-out cursor-pointer'
+          onClick={() => handleClick(item)}
+        >
+          <VideoCard
+            thumbnail={item.snippet.thumbnails}
+            title={item.snippet.title}
+            channelTitle={item.snippet.channelTitle}
+            publishedAt={item.snippet.publishedAt}
+            layout='col'
+          />
+        </li>
+      ))}
+    </ul>
+  );
 }
-
-// 헬퍼함수
